@@ -1,62 +1,112 @@
 eventId,matchId,teamOneName,teamTwoName,teamOneScore,teamTwoScore,teamOneWon,teamTwoWon,matchLink
-7578,2370086,9 Pandas,GamerLegion,2,1,True,False,/matches/2370086/9-pandas-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier
-7578,2370085,Guild Eagles,GamerLegion,0,2,False,True,/matches/2370085/guild-eagles-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier
-7578,2370084,fnatic,GamerLegion,0,2,False,True,/matches/2370084/fnatic-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier
-7578,2370083,BetBoom,Guild Eagles,0,2,False,True,/matches/2370083/betboom-vs-guild-eagles-pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier
-7578,2370082,9 Pandas,Astralis,2,0,True,False,/matches/2370082/9-pandas-vs-astralis-pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier
-7577,2369948,HEROIC,GamerLegion,2,0,True,False,/matches/2369948/heroic-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369947,ECSTATIC,Guild Eagles,2,1,True,False,/matches/2369947/ecstatic-vs-guild-eagles-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369946,ENCE,Astralis,2,0,True,False,/matches/2369946/ence-vs-astralis-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369945,Guild Eagles,Preasy,2,1,True,False,/matches/2369945/guild-eagles-vs-preasy-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369944,Spirit,HEROIC,2,0,True,False,/matches/2369944/spirit-vs-heroic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369942,Vitality,ENCE,2,0,True,False,/matches/2369942/vitality-vs-ence-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369943,OG,GamerLegion,0,2,False,True,/matches/2369943/og-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369940,Apeks,ECSTATIC,2,1,True,False,/matches/2369940/apeks-vs-ecstatic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369941,Monte,Astralis,1,2,False,True,/matches/2369941/monte-vs-astralis-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369939,PERA,Preasy,1,2,False,True,/matches/2369939/pera-vs-preasy-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369938,Spirit,MOUZ,0,2,False,True,/matches/2369938/spirit-vs-mouz-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369937,Guild Eagles,Nexus,2,1,True,False,/matches/2369937/guild-eagles-vs-nexus-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369936,Vitality,Cloud9,1,2,False,True,/matches/2369936/vitality-vs-cloud9-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369935,GamerLegion,ENCE,14,16,False,True,/matches/2369935/gamerlegion-vs-ence-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369934,Astralis,HEROIC,7,13,True,False,/matches/2369934/astralis-vs-heroic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369932,ECSTATIC,OG,13,11,True,False,/matches/2369932/ecstatic-vs-og-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369933,Apeks,Monte,13,5,False,True,/matches/2369933/apeks-vs-monte-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369930,Spirit,Astralis,13,11,True,False,/matches/2369930/spirit-vs-astralis-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369931,Vitality,HEROIC,13,3,False,True,/matches/2369931/vitality-vs-heroic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369928,Cloud9,Apeks,13,10,True,False,/matches/2369928/cloud9-vs-apeks-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369929,MOUZ,ECSTATIC,13,8,False,True,/matches/2369929/mouz-vs-ecstatic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369927,Monte,Nexus,13,9,False,True,/matches/2369927/monte-vs-nexus-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369926,Preasy,OG,9,13,True,False,/matches/2369926/preasy-vs-og-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369924,Guild Eagles,ENCE,6,13,True,False,/matches/2369924/guild-eagles-vs-ence-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369925,GamerLegion,PERA,13,6,False,True,/matches/2369925/gamerlegion-vs-pera-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369923,Preasy,HEROIC,9,13,True,False,/matches/2369923/preasy-vs-heroic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369922,Astralis,Nexus,13,5,False,True,/matches/2369922/astralis-vs-nexus-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369921,Cloud9,PERA,13,3,False,True,/matches/2369921/cloud9-vs-pera-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369920,Apeks,OG,13,5,False,True,/matches/2369920/apeks-vs-og-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369919,Monte,ECSTATIC,9,13,True,False,/matches/2369919/monte-vs-ecstatic-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369918,Spirit,ENCE,13,0,True,False,/matches/2369918/spirit-vs-ence-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369917,MOUZ,Guild Eagles,16,14,True,False,/matches/2369917/mouz-vs-guild-eagles-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7577,2369916,Vitality,GamerLegion,13,2,False,True,/matches/2369916/vitality-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-europe-rmr-b
-7551,2369484,BIG,Apeks,1,2,False,True,/matches/2369484/big-vs-apeks-iem-katowice-2024-play-in
-7551,2369485,Rebels,M80,2,0,True,False,/matches/2369485/rebels-vs-m80-iem-katowice-2024-play-in
-7551,2369483,TheMongolz,ENCE,1,2,False,True,/matches/2369483/themongolz-vs-ence-iem-katowice-2024-play-in
-7551,2369482,Virtus.pro,Cloud9,1,2,False,True,/matches/2369482/virtuspro-vs-cloud9-iem-katowice-2024-play-in
-7551,2369479,Apeks,FURIA,2,1,True,False,/matches/2369479/apeks-vs-furia-iem-katowice-2024-play-in
-7551,2369478,Astralis,ENCE,0,2,False,True,/matches/2369478/astralis-vs-ence-iem-katowice-2024-play-in
-7551,2369477,BetBoom,Cloud9,1,2,False,True,/matches/2369477/betboom-vs-cloud9-iem-katowice-2024-play-in
-7551,2369480,M80,Rooster,2,0,True,False,/matches/2369480/m80-vs-rooster-iem-katowice-2024-play-in
-7551,2369476,GamerLegion,Virtus.pro,2,1,True,False,/matches/2369476/gamerlegion-vs-virtuspro-iem-katowice-2024-play-in
-7551,2369475,Spirit,TheMongolz,2,0,True,False,/matches/2369475/spirit-vs-themongolz-iem-katowice-2024-play-in
-7551,2369474,HEROIC,BIG,2,1,True,False,/matches/2369474/heroic-vs-big-iem-katowice-2024-play-in
-7551,2369473,Eternal Fire,Rebels,2,0,True,False,/matches/2369473/eternal-fire-vs-rebels-iem-katowice-2024-play-in
-7551,2369407,Rooster,Virtus.pro,4,13,True,False,/matches/2369407/rooster-vs-virtuspro-iem-katowice-2024-play-in
-7551,2369404,FURIA,TheMongolz,14,16,False,True,/matches/2369404/furia-vs-themongolz-iem-katowice-2024-play-in
-7551,2369406,GamerLegion,M80,13,10,True,False,/matches/2369406/gamerlegion-vs-m80-iem-katowice-2024-play-in
-7551,2369405,Spirit,Apeks,13,0,True,False,/matches/2369405/spirit-vs-apeks-iem-katowice-2024-play-in
-7551,2369400,Cloud9,Rebels,10,13,False,True,/matches/2369400/cloud9-vs-rebels-iem-katowice-2024-play-in
-7551,2369403,ENCE,BIG,9,13,True,False,/matches/2369403/ence-vs-big-iem-katowice-2024-play-in
-7551,2369401,Eternal Fire,BetBoom,13,1,True,False,/matches/2369401/eternal-fire-vs-betboom-iem-katowice-2024-play-in
-7551,2369402,HEROIC,Astralis,13,11,True,False,/matches/2369402/heroic-vs-astralis-iem-katowice-2024-play-in
+7755,2372004,Spirit,MOUZ,0,3,False,True,/matches/2372004/spirit-vs-mouz-betboom-dacha-belgrade-2024
+7755,2372003,MOUZ,HEROIC,2,0,True,False,/matches/2372003/mouz-vs-heroic-betboom-dacha-belgrade-2024
+7755,2372002,Spirit,Falcons,2,0,True,False,/matches/2372002/spirit-vs-falcons-betboom-dacha-belgrade-2024
+7755,2372001,HEROIC,MIBR,2,1,True,False,/matches/2372001/heroic-vs-mibr-betboom-dacha-belgrade-2024
+7755,2371996,Falcons,Virtus.pro,2,1,True,False,/matches/2371996/falcons-vs-virtuspro-betboom-dacha-belgrade-2024
+7755,2372000,Aurora,MIBR,0,2,False,True,/matches/2372000/aurora-vs-mibr-betboom-dacha-belgrade-2024
+7755,2371999,Spirit,HEROIC,2,0,True,False,/matches/2371999/spirit-vs-heroic-betboom-dacha-belgrade-2024
+7755,2371995,MOUZ,Virtus.pro,2,1,True,False,/matches/2371995/mouz-vs-virtuspro-betboom-dacha-belgrade-2024
+7755,2371994,BetBoom,Falcons,1,2,False,True,/matches/2371994/betboom-vs-falcons-betboom-dacha-belgrade-2024
+7755,2371998,HEROIC,MIBR,2,1,True,False,/matches/2371998/heroic-vs-mibr-betboom-dacha-belgrade-2024
+7755,2371997,Spirit,Aurora,2,0,True,False,/matches/2371997/spirit-vs-aurora-betboom-dacha-belgrade-2024
+7755,2371993,Virtus.pro,Falcons,2,0,True,False,/matches/2371993/virtuspro-vs-falcons-betboom-dacha-belgrade-2024
+7755,2371992,MOUZ,BetBoom,2,0,True,False,/matches/2371992/mouz-vs-betboom-betboom-dacha-belgrade-2024
+7742,2370784,Imperial,paiN,1,2,False,True,/matches/2370784/imperial-vs-pain-global-esports-tour-rio-2024
+7742,2370783,paiN,MIBR,2,0,True,False,/matches/2370783/pain-vs-mibr-global-esports-tour-rio-2024
+7742,2370782,MIBR,OG,2,1,True,False,/matches/2370782/mibr-vs-og-global-esports-tour-rio-2024
+7742,2370781,Imperial,paiN,2,1,True,False,/matches/2370781/imperial-vs-pain-global-esports-tour-rio-2024
+7742,2370780,9z,OG,0,2,False,True,/matches/2370780/9z-vs-og-global-esports-tour-rio-2024
+7742,2370779,MIBR,FURIA,2,0,True,False,/matches/2370779/mibr-vs-furia-global-esports-tour-rio-2024
+7742,2370777,Monte,OG,1,2,False,True,/matches/2370777/monte-vs-og-global-esports-tour-rio-2024
+7742,2370778,Metizport,FURIA,1,2,False,True,/matches/2370778/metizport-vs-furia-global-esports-tour-rio-2024
+7742,2370776,paiN,MIBR,13,9,False,True,/matches/2370776/pain-vs-mibr-global-esports-tour-rio-2024
+7742,2370775,Imperial,9z,13,6,False,True,/matches/2370775/imperial-vs-9z-global-esports-tour-rio-2024
+7742,2370774,MIBR,OG,13,4,False,True,/matches/2370774/mibr-vs-og-global-esports-tour-rio-2024
+7742,2370773,FURIA,9z,6,13,True,False,/matches/2370773/furia-vs-9z-global-esports-tour-rio-2024
+7742,2370772,Imperial,Metizport,13,11,True,False,/matches/2370772/imperial-vs-metizport-global-esports-tour-rio-2024
+7742,2370771,Monte,paiN,14,16,False,True,/matches/2370771/monte-vs-pain-global-esports-tour-rio-2024
+7601,2373078,Complexity,Falcons,2,0,True,False,/matches/2373078/complexity-vs-falcons-esl-challenger-jnkping-2024
+7601,2373076,ENCE,Falcons,0,2,False,True,/matches/2373076/ence-vs-falcons-esl-challenger-jnkping-2024
+7601,2373077,Aurora,Complexity,1,2,False,True,/matches/2373077/aurora-vs-complexity-esl-challenger-jnkping-2024
+7601,2373075,The MongolZ,Falcons,0,2,False,True,/matches/2373075/the-mongolz-vs-falcons-esl-challenger-jnkping-2024
+7601,2373074,Complexity,MIBR,2,1,True,False,/matches/2373074/complexity-vs-mibr-esl-challenger-jnkping-2024
+7601,2373073,Party Astronauts,Falcons,0,2,False,True,/matches/2373073/party-astronauts-vs-falcons-esl-challenger-jnkping-2024
+7601,2373072,MIBR,Alliance,2,0,True,False,/matches/2373072/mibr-vs-alliance-esl-challenger-jnkping-2024
+7601,2373071,Complexity,ENCE,10,13,False,True,/matches/2373071/complexity-vs-ence-esl-challenger-jnkping-2024
+7601,2373070,The MongolZ,Aurora,10,13,False,True,/matches/2373070/the-mongolz-vs-aurora-esl-challenger-jnkping-2024
+7601,2373069,ENCE,MIBR,13,6,False,True,/matches/2373069/ence-vs-mibr-esl-challenger-jnkping-2024
+7601,2373068,Complexity,Alliance,13,2,False,True,/matches/2373068/complexity-vs-alliance-esl-challenger-jnkping-2024
+7601,2373067,Aurora,Falcons,16,14,True,False,/matches/2373067/aurora-vs-falcons-esl-challenger-jnkping-2024
+7601,2373066,The MongolZ,Party Astronauts,13,3,False,True,/matches/2373066/the-mongolz-vs-party-astronauts-esl-challenger-jnkping-2024
+7600,2371427,MIBR,Aurora,2,0,True,False,/matches/2371427/mibr-vs-aurora-esl-challenger-melbourne-2024
+7600,2371426,Rebels,Aurora,0,2,False,True,/matches/2371426/rebels-vs-aurora-esl-challenger-melbourne-2024
+7600,2371425,Apeks,MIBR,1,2,False,True,/matches/2371425/apeks-vs-mibr-esl-challenger-melbourne-2024
+7600,2371424,Aurora,Party Astronauts,2,0,True,False,/matches/2371424/aurora-vs-party-astronauts-esl-challenger-melbourne-2024
+7600,2371423,MIBR,Rooster,2,0,True,False,/matches/2371423/mibr-vs-rooster-esl-challenger-melbourne-2024
+7600,2371422,sunday school,Party Astronauts,0,2,False,True,/matches/2371422/sunday-school-vs-party-astronauts-esl-challenger-melbourne-2024
+7600,2371421,KZG,Rooster,0,2,False,True,/matches/2371421/kzg-vs-rooster-esl-challenger-melbourne-2024
+7600,2371420,MIBR,Rebels,10,13,False,True,/matches/2371420/mibr-vs-rebels-esl-challenger-melbourne-2024
+7600,2371419,Apeks,Aurora,13,11,True,False,/matches/2371419/apeks-vs-aurora-esl-challenger-melbourne-2024
+7600,2371418,Rooster,Rebels,7,13,True,False,/matches/2371418/rooster-vs-rebels-esl-challenger-melbourne-2024
+7600,2371417,MIBR,KZG,13,4,False,True,/matches/2371417/mibr-vs-kzg-esl-challenger-melbourne-2024
+7600,2371416,Party Astronauts,Aurora,3,13,True,False,/matches/2371416/party-astronauts-vs-aurora-esl-challenger-melbourne-2024
+7600,2371415,Apeks,sunday school,13,2,False,True,/matches/2371415/apeks-vs-sunday-school-esl-challenger-melbourne-2024
+7499,2368508,Virtus.pro,Spirit,2,3,False,True,/matches/2368508/virtuspro-vs-spirit-betboom-dacha-2023
+7499,2368506,MIBR,Spirit,0,2,False,True,/matches/2368506/mibr-vs-spirit-betboom-dacha-2023
+7499,2368507,BetBoom,Virtus.pro,0,2,False,True,/matches/2368507/betboom-vs-virtuspro-betboom-dacha-2023
+7499,2368505,Spirit,FURIA,2,0,True,False,/matches/2368505/spirit-vs-furia-betboom-dacha-2023
+7499,2368502,BetBoom,Cloud9,2,0,True,False,/matches/2368502/betboom-vs-cloud9-betboom-dacha-2023
+7499,2368504,Astralis,FURIA,0,2,False,True,/matches/2368504/astralis-vs-furia-betboom-dacha-2023
+7499,2368501,Cloud9,MIBR,1,2,False,True,/matches/2368501/cloud9-vs-mibr-betboom-dacha-2023
+7499,2368503,Virtus.pro,Spirit,2,0,True,False,/matches/2368503/virtuspro-vs-spirit-betboom-dacha-2023
+7499,2368500,GamerLegion,BetBoom,0,2,False,True,/matches/2368500/gamerlegion-vs-betboom-betboom-dacha-2023
+7499,2368499,FURIA,Spirit,0,2,False,True,/matches/2368499/furia-vs-spirit-betboom-dacha-2023
+7499,2368498,Astralis,Virtus.pro,1,2,False,True,/matches/2368498/astralis-vs-virtuspro-betboom-dacha-2023
+7499,2368497,MIBR,BetBoom,2,0,True,False,/matches/2368497/mibr-vs-betboom-betboom-dacha-2023
+7499,2368496,GamerLegion,Cloud9,0,2,False,True,/matches/2368496/gamerlegion-vs-cloud9-betboom-dacha-2023
+7485,2372746,Spirit,Natus Vincere,3,1,True,False,/matches/2372746/spirit-vs-natus-vincere-blast-premier-spring-final-2024
+7485,2372745,Natus Vincere,Virtus.pro,2,0,True,False,/matches/2372745/natus-vincere-vs-virtuspro-blast-premier-spring-final-2024
+7485,2372744,Spirit,Vitality,2,1,True,False,/matches/2372744/spirit-vs-vitality-blast-premier-spring-final-2024
+7485,2372743,Astralis,Virtus.pro,0,2,False,True,/matches/2372743/astralis-vs-virtuspro-blast-premier-spring-final-2024
+7485,2372742,FaZe,Vitality,1,2,False,True,/matches/2372742/faze-vs-vitality-blast-premier-spring-final-2024
+7485,2372741,Virtus.pro,Spirit,0,2,False,True,/matches/2372741/virtuspro-vs-spirit-blast-premier-spring-final-2024
+7485,2372740,Vitality,G2,2,1,True,False,/matches/2372740/vitality-vs-g2-blast-premier-spring-final-2024
+7485,2372736,FaZe,Natus Vincere,1,2,False,True,/matches/2372736/faze-vs-natus-vincere-blast-premier-spring-final-2024
+7485,2372737,SAW,Astralis,0,2,False,True,/matches/2372737/saw-vs-astralis-blast-premier-spring-final-2024
+7485,2372739,Spirit,G2,2,1,True,False,/matches/2372739/spirit-vs-g2-blast-premier-spring-final-2024
+7485,2372738,Vitality,Virtus.pro,1,2,False,True,/matches/2372738/vitality-vs-virtuspro-blast-premier-spring-final-2024
+7485,2372735,Natus Vincere,Astralis,2,0,True,False,/matches/2372735/natus-vincere-vs-astralis-blast-premier-spring-final-2024
+7485,2372734,FaZe,SAW,2,0,True,False,/matches/2372734/faze-vs-saw-blast-premier-spring-final-2024
+7438,2372350,G2,Vitality,2,1,True,False,/matches/2372350/g2-vs-vitality-iem-dallas-2024
+7438,2372348,9z,G2,0,2,False,True,/matches/2372348/9z-vs-g2-iem-dallas-2024
+7438,2372349,Spirit,Vitality,0,2,False,True,/matches/2372349/spirit-vs-vitality-iem-dallas-2024
+7438,2372346,FaZe,G2,0,2,False,True,/matches/2372346/faze-vs-g2-iem-dallas-2024
+7438,2372347,Vitality,HEROIC,2,0,True,False,/matches/2372347/vitality-vs-heroic-iem-dallas-2024
+7438,2372342,G2,Liquid,2,1,True,False,/matches/2372342/g2-vs-liquid-iem-dallas-2024
+7438,2372345,HEROIC,BIG,2,0,True,False,/matches/2372345/heroic-vs-big-iem-dallas-2024
+7438,2372343,9z,Vitality,2,0,True,False,/matches/2372343/9z-vs-vitality-iem-dallas-2024
+7438,2372344,FaZe,Spirit,0,2,False,True,/matches/2372344/faze-vs-spirit-iem-dallas-2024
+7438,2372341,Virtus.pro,BIG,1,2,False,True,/matches/2372341/virtuspro-vs-big-iem-dallas-2024
+7438,2372340,Natus Vincere,HEROIC,0,2,False,True,/matches/2372340/natus-vincere-vs-heroic-iem-dallas-2024
+7438,2372338,G2,MOUZ,2,1,True,False,/matches/2372338/g2-vs-mouz-iem-dallas-2024
+7438,2372339,Liquid,Falcons,2,1,True,False,/matches/2372339/liquid-vs-falcons-iem-dallas-2024
+7438,2372334,FaZe,Virtus.pro,2,1,True,False,/matches/2372334/faze-vs-virtuspro-iem-dallas-2024
+7438,2372337,BIG,FlyQuest,2,0,True,False,/matches/2372337/big-vs-flyquest-iem-dallas-2024
+7438,2372335,M80,HEROIC,0,2,False,True,/matches/2372335/m80-vs-heroic-iem-dallas-2024
+7438,2372336,Natus Vincere,Spirit,0,2,False,True,/matches/2372336/natus-vincere-vs-spirit-iem-dallas-2024
+7438,2372332,Liquid,9z,1,2,False,True,/matches/2372332/liquid-vs-9z-iem-dallas-2024
+7438,2372333,Complexity,MOUZ,1,2,False,True,/matches/2372333/complexity-vs-mouz-iem-dallas-2024
+7438,2372331,Falcons,Monte,2,0,True,False,/matches/2372331/falcons-vs-monte-iem-dallas-2024
+7438,2372330,G2,Vitality,0,2,False,True,/matches/2372330/g2-vs-vitality-iem-dallas-2024
+7438,2372327,Virtus.pro,HEROIC,13,4,False,True,/matches/2372327/virtuspro-vs-heroic-iem-dallas-2024
+7438,2372328,Spirit,FlyQuest,13,1,True,False,/matches/2372328/spirit-vs-flyquest-iem-dallas-2024
+7438,2372326,FaZe,M80,13,6,False,True,/matches/2372326/faze-vs-m80-iem-dallas-2024
+7438,2372329,Natus Vincere,BIG,13,9,False,True,/matches/2372329/natus-vincere-vs-big-iem-dallas-2024
+7438,2372322,MOUZ,9z,9,13,True,False,/matches/2372322/mouz-vs-9z-iem-dallas-2024
+7438,2372323,Complexity,Liquid,6,13,True,False,/matches/2372323/complexity-vs-liquid-iem-dallas-2024
+7438,2372325,Vitality,Monte,16,12,True,False,/matches/2372325/vitality-vs-monte-iem-dallas-2024
+7438,2372324,G2,Falcons,13,10,True,False,/matches/2372324/g2-vs-falcons-iem-dallas-2024
 7437,2370931,MOUZ,FaZe,0,2,False,True,/matches/2370931/mouz-vs-faze-iem-chengdu-2024
 7437,2370930,Astralis,FaZe,1,2,False,True,/matches/2370930/astralis-vs-faze-iem-chengdu-2024
 7437,2370929,MOUZ,G2,2,1,True,False,/matches/2370929/mouz-vs-g2-iem-chengdu-2024
@@ -86,179 +136,6 @@ eventId,matchId,teamOneName,teamTwoName,teamOneScore,teamTwoScore,teamOneWon,tea
 7437,2370905,FURIA,Lynn Vision,13,9,False,True,/matches/2370905/furia-vs-lynn-vision-iem-chengdu-2024
 7437,2370903,G2,9z,13,10,True,False,/matches/2370903/g2-vs-9z-iem-chengdu-2024
 7437,2370904,Liquid,HEROIC,13,8,False,True,/matches/2370904/liquid-vs-heroic-iem-chengdu-2024
-7435,2369507,FaZe,Spirit,0,3,False,True,/matches/2369507/faze-vs-spirit-iem-katowice-2024
-7435,2369506,Spirit,Falcons,2,0,True,False,/matches/2369506/spirit-vs-falcons-iem-katowice-2024
-7435,2369505,MOUZ,FaZe,0,2,False,True,/matches/2369505/mouz-vs-faze-iem-katowice-2024
-7435,2369504,ENCE,Falcons,1,2,False,True,/matches/2369504/ence-vs-falcons-iem-katowice-2024
-7435,2369503,FaZe,G2,2,0,True,False,/matches/2369503/faze-vs-g2-iem-katowice-2024
-7435,2369502,HEROIC,G2,0,2,False,True,/matches/2369502/heroic-vs-g2-iem-katowice-2024
-7435,2369501,MOUZ,ENCE,2,0,True,False,/matches/2369501/mouz-vs-ence-iem-katowice-2024
-7435,2369494,Falcons,Natus Vincere,2,0,True,False,/matches/2369494/falcons-vs-natus-vincere-iem-katowice-2024
-7435,2369493,Spirit,FaZe,2,0,True,False,/matches/2369493/spirit-vs-faze-iem-katowice-2024
-7435,2369500,Monte,G2,1,2,False,True,/matches/2369500/monte-vs-g2-iem-katowice-2024
-7435,2369499,HEROIC,GamerLegion,2,1,True,False,/matches/2369499/heroic-vs-gamerlegion-iem-katowice-2024
-7435,2369492,Natus Vincere,Eternal Fire,2,1,True,False,/matches/2369492/natus-vincere-vs-eternal-fire-iem-katowice-2024
-7435,2369491,Complexity,Falcons,1,2,False,True,/matches/2369491/complexity-vs-falcons-iem-katowice-2024
-7435,2369497,G2,ENCE,0,2,False,True,/matches/2369497/g2-vs-ence-iem-katowice-2024
-7435,2369498,GamerLegion,MOUZ,0,2,False,True,/matches/2369498/gamerlegion-vs-mouz-iem-katowice-2024
-7435,2369495,HEROIC,Vitality,2,1,True,False,/matches/2369495/heroic-vs-vitality-iem-katowice-2024
-7435,2369496,Monte,Cloud9,2,0,True,False,/matches/2369496/monte-vs-cloud9-iem-katowice-2024
-7435,2369487,Eternal Fire,FaZe,1,2,False,True,/matches/2369487/eternal-fire-vs-faze-iem-katowice-2024
-7435,2369488,Falcons,Rebels,2,1,True,False,/matches/2369488/falcons-vs-rebels-iem-katowice-2024
-7435,2369490,Natus Vincere,Apeks,2,1,True,False,/matches/2369490/natus-vincere-vs-apeks-iem-katowice-2024
-7435,2369489,Spirit,Complexity,2,0,True,False,/matches/2369489/spirit-vs-complexity-iem-katowice-2024
-7435,2369415,MOUZ,Cloud9,2,1,True,False,/matches/2369415/mouz-vs-cloud9-iem-katowice-2024
-7435,2369414,Monte,GamerLegion,0,2,False,True,/matches/2369414/monte-vs-gamerlegion-iem-katowice-2024
-7435,2369412,Vitality,ENCE,1,2,False,True,/matches/2369412/vitality-vs-ence-iem-katowice-2024
-7435,2369411,Complexity,Apeks,2,0,True,False,/matches/2369411/complexity-vs-apeks-iem-katowice-2024
-7435,2369410,Natus Vincere,Spirit,1,2,False,True,/matches/2369410/natus-vincere-vs-spirit-iem-katowice-2024
-7435,2369408,FaZe,Rebels,2,0,True,False,/matches/2369408/faze-vs-rebels-iem-katowice-2024
-7435,2369413,G2,HEROIC,2,1,True,False,/matches/2369413/g2-vs-heroic-iem-katowice-2024
-7435,2369409,Falcons,Eternal Fire,0,2,False,True,/matches/2369409/falcons-vs-eternal-fire-iem-katowice-2024
-7261,2370207,Complexity,Liquid,2,1,True,False,/matches/2370207/complexity-vs-liquid-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370206,M80,Legacy,1,2,False,True,/matches/2370206/m80-vs-legacy-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370205,paiN,ODDIK,2,0,True,False,/matches/2370205/pain-vs-oddik-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370204,Legacy,MIBR,2,0,True,False,/matches/2370204/legacy-vs-mibr-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370203,FURIA,Complexity,2,1,True,False,/matches/2370203/furia-vs-complexity-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370202,RED Canids,ODDIK,1,2,False,True,/matches/2370202/red-canids-vs-oddik-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370201,paiN,Imperial,0,2,False,True,/matches/2370201/pain-vs-imperial-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370200,M80,Wildcard,2,1,True,False,/matches/2370200/m80-vs-wildcard-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370199,BOSS,Liquid,0,2,False,True,/matches/2370199/boss-vs-liquid-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370198,Elevate,ODDIK,1,2,False,True,/matches/2370198/elevate-vs-oddik-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370197,Nouns,Legacy,1,2,False,True,/matches/2370197/nouns-vs-legacy-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370195,MIBR,NRG,2,0,True,False,/matches/2370195/mibr-vs-nrg-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370196,BESTIA,Wildcard,0,2,False,True,/matches/2370196/bestia-vs-wildcard-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370193,FURIA,Liquid,13,10,True,False,/matches/2370193/furia-vs-liquid-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370194,M80,Imperial,3,13,True,False,/matches/2370194/m80-vs-imperial-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370192,paiN,RED Canids,13,10,True,False,/matches/2370192/pain-vs-red-canids-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370191,Complexity,BOSS,13,10,True,False,/matches/2370191/complexity-vs-boss-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370189,BESTIA,Liquid,11,13,False,True,/matches/2370189/bestia-vs-liquid-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370190,Imperial,NRG,13,2,False,True,/matches/2370190/imperial-vs-nrg-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370187,paiN,Legacy,13,2,False,True,/matches/2370187/pain-vs-legacy-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370188,RED Canids,Wildcard,13,1,True,False,/matches/2370188/red-canids-vs-wildcard-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370185,MIBR,BOSS,9,13,True,False,/matches/2370185/mibr-vs-boss-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370186,M80,ODDIK,13,10,True,False,/matches/2370186/m80-vs-oddik-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370183,FURIA,Nouns,13,9,False,True,/matches/2370183/furia-vs-nouns-pgl-cs2-major-copenhagen-2024-americas-rmr
-7261,2370184,Complexity,Elevate,13,6,False,True,/matches/2370184/complexity-vs-elevate-pgl-cs2-major-copenhagen-2024-americas-rmr
-7260,2370121,Lynn Vision,Grayhound,2,1,True,False,/matches/2370121/lynn-vision-vs-grayhound-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370120,ATOX,Grayhound,1,2,False,True,/matches/2370120/atox-vs-grayhound-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370119,TheMongolz,Lynn Vision,2,0,True,False,/matches/2370119/themongolz-vs-lynn-vision-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370118,Grayhound,JiJieHao,2,0,True,False,/matches/2370118/grayhound-vs-jijiehao-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370117,TYLOO,ATOX,1,2,False,True,/matches/2370117/tyloo-vs-atox-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370116,Twisted Minds,JiJieHao,0,2,False,True,/matches/2370116/twisted-minds-vs-jijiehao-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370115,MAG,ATOX,0,2,False,True,/matches/2370115/mag-vs-atox-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370114,Lynn Vision,TYLOO,13,6,False,True,/matches/2370114/lynn-vision-vs-tyloo-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370113,TheMongolz,Grayhound,13,4,False,True,/matches/2370113/themongolz-vs-grayhound-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370112,TYLOO,JiJieHao,13,11,True,False,/matches/2370112/tyloo-vs-jijiehao-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370111,Lynn Vision,Twisted Minds,13,7,False,True,/matches/2370111/lynn-vision-vs-twisted-minds-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370110,Grayhound,ATOX,13,4,False,True,/matches/2370110/grayhound-vs-atox-pgl-cs2-major-copenhagen-2024-asia-rmr
-7260,2370109,TheMongolz,MAG,13,4,False,True,/matches/2370109/themongolz-vs-mag-pgl-cs2-major-copenhagen-2024-asia-rmr
-7259,2369752,Eternal Fire,BetBoom,2,0,True,False,/matches/2369752/eternal-fire-vs-betboom-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369751,fnatic,SAW,0,2,False,True,/matches/2369751/fnatic-vs-saw-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369750,9 Pandas,AMKAL,1,2,False,True,/matches/2369750/9-pandas-vs-amkal-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369748,Natus Vincere,BetBoom,2,1,True,False,/matches/2369748/natus-vincere-vs-betboom-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369749,Enterprise,SAW,0,2,False,True,/matches/2369749/enterprise-vs-saw-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369747,9 Pandas,3DMAX,2,1,True,False,/matches/2369747/9-pandas-vs-3dmax-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369746,FaZe,Eternal Fire,2,0,True,False,/matches/2369746/faze-vs-eternal-fire-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369745,AMKAL,Falcons,2,1,True,False,/matches/2369745/amkal-vs-falcons-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369744,fnatic,KOI,0,2,False,True,/matches/2369744/fnatic-vs-koi-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369743,Into the Breach,3DMAX,1,2,False,True,/matches/2369743/into-the-breach-vs-3dmax-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369742,Virtus.pro,Natus Vincere,2,0,True,False,/matches/2369742/virtuspro-vs-natus-vincere-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369741,SAW,Ninjas in Pyjamas,2,0,True,False,/matches/2369741/saw-vs-ninjas-in-pyjamas-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369740,FaZe,G2,0,2,False,True,/matches/2369740/faze-vs-g2-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369739,Enterprise,BetBoom,10,13,False,True,/matches/2369739/enterprise-vs-betboom-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369738,fnatic,AMKAL,13,11,True,False,/matches/2369738/fnatic-vs-amkal-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369737,9 Pandas,KOI,11,13,False,True,/matches/2369737/9-pandas-vs-koi-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369736,Eternal Fire,Falcons,13,5,False,True,/matches/2369736/eternal-fire-vs-falcons-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369734,Natus Vincere,Enterprise,13,6,False,True,/matches/2369734/natus-vincere-vs-enterprise-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369733,Virtus.pro,fnatic,13,3,False,True,/matches/2369733/virtuspro-vs-fnatic-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369735,G2,Eternal Fire,16,13,True,False,/matches/2369735/g2-vs-eternal-fire-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369731,3DMAX,KOI,8,13,True,False,/matches/2369731/3dmax-vs-koi-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369732,FaZe,Falcons,13,7,False,True,/matches/2369732/faze-vs-falcons-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369728,Ninjas in Pyjamas,AMKAL,20,22,False,True,/matches/2369728/ninjas-in-pyjamas-vs-amkal-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369730,BetBoom,Into the Breach,13,1,True,False,/matches/2369730/betboom-vs-into-the-breach-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369729,SAW,9 Pandas,1,13,False,True,/matches/2369729/saw-vs-9-pandas-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369727,3DMAX,Falcons,8,13,True,False,/matches/2369727/3dmax-vs-falcons-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369726,BetBoom,fnatic,6,13,True,False,/matches/2369726/betboom-vs-fnatic-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369725,AMKAL,Enterprise,9,13,True,False,/matches/2369725/amkal-vs-enterprise-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369724,Eternal Fire,Ninjas in Pyjamas,13,11,True,False,/matches/2369724/eternal-fire-vs-ninjas-in-pyjamas-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369722,Natus Vincere,KOI,13,8,False,True,/matches/2369722/natus-vincere-vs-koi-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369723,G2,Into the Breach,13,3,False,True,/matches/2369723/g2-vs-into-the-breach-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369721,Virtus.pro,SAW,13,6,False,True,/matches/2369721/virtuspro-vs-saw-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7259,2369720,FaZe,9 Pandas,13,6,False,True,/matches/2369720/faze-vs-9-pandas-pgl-cs2-major-copenhagen-2024-europe-rmr-a
-7258,2370627,SAW,FURIA,0,2,False,True,/matches/2370627/saw-vs-furia-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370626,Imperial,GamerLegion,2,1,True,False,/matches/2370626/imperial-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370625,Legacy,TheMongolz,0,2,False,True,/matches/2370625/legacy-vs-themongolz-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370623,ECSTATIC,Imperial,2,1,True,False,/matches/2370623/ecstatic-vs-imperial-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370624,ENCE,FURIA,0,2,False,True,/matches/2370624/ence-vs-furia-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370621,SAW,paiN,0,2,False,True,/matches/2370621/saw-vs-pain-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370622,Legacy,Apeks,2,0,True,False,/matches/2370622/legacy-vs-apeks-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370619,Eternal Fire,GamerLegion,2,1,True,False,/matches/2370619/eternal-fire-vs-gamerlegion-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370620,Lynn Vision,TheMongolz,0,2,False,True,/matches/2370620/lynn-vision-vs-themongolz-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370618,KOI,FURIA,0,2,False,True,/matches/2370618/koi-vs-furia-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370617,Cloud9,SAW,2,0,True,False,/matches/2370617/cloud9-vs-saw-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370616,TheMongolz,AMKAL,2,1,True,False,/matches/2370616/themongolz-vs-amkal-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370615,HEROIC,Eternal Fire,2,0,True,False,/matches/2370615/heroic-vs-eternal-fire-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370614,ECSTATIC,Lynn Vision,13,8,False,True,/matches/2370614/ecstatic-vs-lynn-vision-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370613,GamerLegion,Legacy,13,4,False,True,/matches/2370613/gamerlegion-vs-legacy-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370611,Imperial,Apeks,13,7,False,True,/matches/2370611/imperial-vs-apeks-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370612,paiN,ENCE,13,3,False,True,/matches/2370612/pain-vs-ence-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370610,FURIA,Lynn Vision,9,13,True,False,/matches/2370610/furia-vs-lynn-vision-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370609,GamerLegion,SAW,9,13,True,False,/matches/2370609/gamerlegion-vs-saw-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370608,ENCE,KOI,16,12,True,False,/matches/2370608/ence-vs-koi-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370607,Cloud9,Legacy,13,10,True,False,/matches/2370607/cloud9-vs-legacy-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370606,Apeks,AMKAL,16,13,True,False,/matches/2370606/apeks-vs-amkal-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370605,HEROIC,Imperial,16,14,True,False,/matches/2370605/heroic-vs-imperial-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370604,ECSTATIC,TheMongolz,13,10,True,False,/matches/2370604/ecstatic-vs-themongolz-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370603,Eternal Fire,paiN,13,2,False,True,/matches/2370603/eternal-fire-vs-pain-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370601,FURIA,Legacy,13,16,False,True,/matches/2370601/furia-vs-legacy-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370599,GamerLegion,AMKAL,13,8,False,True,/matches/2370599/gamerlegion-vs-amkal-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370602,SAW,KOI,13,4,False,True,/matches/2370602/saw-vs-koi-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370597,ENCE,Imperial,19,22,False,True,/matches/2370597/ence-vs-imperial-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370600,HEROIC,Lynn Vision,13,5,False,True,/matches/2370600/heroic-vs-lynn-vision-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370598,Apeks,paiN,8,13,True,False,/matches/2370598/apeks-vs-pain-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370595,Cloud9,ECSTATIC,13,10,True,False,/matches/2370595/cloud9-vs-ecstatic-pgl-cs2-major-copenhagen-2024-opening-stage
-7258,2370596,Eternal Fire,TheMongolz,13,6,False,True,/matches/2370596/eternal-fire-vs-themongolz-pgl-cs2-major-copenhagen-2024-opening-stage
-7148,2370727,FaZe,Natus Vincere,1,2,False,True,/matches/2370727/faze-vs-natus-vincere-pgl-cs2-major-copenhagen-2024
-7148,2370726,Natus Vincere,G2,2,1,True,False,/matches/2370726/natus-vincere-vs-g2-pgl-cs2-major-copenhagen-2024
-7148,2370725,Vitality,FaZe,1,2,False,True,/matches/2370725/vitality-vs-faze-pgl-cs2-major-copenhagen-2024
-7148,2370724,MOUZ,G2,0,2,False,True,/matches/2370724/mouz-vs-g2-pgl-cs2-major-copenhagen-2024
-7148,2370723,Eternal Fire,Natus Vincere,0,2,False,True,/matches/2370723/eternal-fire-vs-natus-vincere-pgl-cs2-major-copenhagen-2024
-7148,2370722,Spirit,FaZe,1,2,False,True,/matches/2370722/spirit-vs-faze-pgl-cs2-major-copenhagen-2024
-7148,2370721,Cloud9,Vitality,0,2,False,True,/matches/2370721/cloud9-vs-vitality-pgl-cs2-major-copenhagen-2024
-7148,2370660,Natus Vincere,paiN,2,0,True,False,/matches/2370660/natus-vincere-vs-pain-pgl-cs2-major-copenhagen-2024
-7148,2370659,Virtus.pro,G2,1,2,False,True,/matches/2370659/virtuspro-vs-g2-pgl-cs2-major-copenhagen-2024
-7148,2370658,Complexity,FaZe,0,2,False,True,/matches/2370658/complexity-vs-faze-pgl-cs2-major-copenhagen-2024
-7148,2370656,Cloud9,Natus Vincere,2,1,True,False,/matches/2370656/cloud9-vs-natus-vincere-pgl-cs2-major-copenhagen-2024
-7148,2370657,HEROIC,paiN,0,2,False,True,/matches/2370657/heroic-vs-pain-pgl-cs2-major-copenhagen-2024
-7148,2370654,Complexity,Vitality,1,2,False,True,/matches/2370654/complexity-vs-vitality-pgl-cs2-major-copenhagen-2024
-7148,2370655,ECSTATIC,G2,1,2,False,True,/matches/2370655/ecstatic-vs-g2-pgl-cs2-major-copenhagen-2024
-7148,2370652,Eternal Fire,Virtus.pro,2,1,True,False,/matches/2370652/eternal-fire-vs-virtuspro-pgl-cs2-major-copenhagen-2024
-7148,2370653,Imperial,FaZe,1,2,False,True,/matches/2370653/imperial-vs-faze-pgl-cs2-major-copenhagen-2024
-7148,2370651,ECSTATIC,FURIA,2,1,True,False,/matches/2370651/ecstatic-vs-furia-pgl-cs2-major-copenhagen-2024
-7148,2370650,Spirit,Natus Vincere,2,1,True,False,/matches/2370650/spirit-vs-natus-vincere-pgl-cs2-major-copenhagen-2024
-7148,2370649,paiN,TheMongolz,2,1,True,False,/matches/2370649/pain-vs-themongolz-pgl-cs2-major-copenhagen-2024
-7148,2370648,MOUZ,Complexity,2,0,True,False,/matches/2370648/mouz-vs-complexity-pgl-cs2-major-copenhagen-2024
-7148,2370647,Imperial,Vitality,9,13,True,False,/matches/2370647/imperial-vs-vitality-pgl-cs2-major-copenhagen-2024
-7148,2370646,Eternal Fire,FaZe,13,1,True,False,/matches/2370646/eternal-fire-vs-faze-pgl-cs2-major-copenhagen-2024
-7148,2370644,G2,Cloud9,9,13,True,False,/matches/2370644/g2-vs-cloud9-pgl-cs2-major-copenhagen-2024
-7148,2370645,HEROIC,Virtus.pro,6,13,True,False,/matches/2370645/heroic-vs-virtuspro-pgl-cs2-major-copenhagen-2024
-7148,2370642,Spirit,Imperial,13,2,False,True,/matches/2370642/spirit-vs-imperial-pgl-cs2-major-copenhagen-2024
-7148,2370643,FaZe,FURIA,13,7,False,True,/matches/2370643/faze-vs-furia-pgl-cs2-major-copenhagen-2024
-7148,2370640,Natus Vincere,G2,13,11,True,False,/matches/2370640/natus-vincere-vs-g2-pgl-cs2-major-copenhagen-2024
-7148,2370641,Cloud9,ECSTATIC,13,3,False,True,/matches/2370641/cloud9-vs-ecstatic-pgl-cs2-major-copenhagen-2024
-7148,2370638,Complexity,HEROIC,19,17,True,False,/matches/2370638/complexity-vs-heroic-pgl-cs2-major-copenhagen-2024
-7148,2370639,Virtus.pro,paiN,13,9,False,True,/matches/2370639/virtuspro-vs-pain-pgl-cs2-major-copenhagen-2024
-7148,2370636,MOUZ,Eternal Fire,13,11,True,False,/matches/2370636/mouz-vs-eternal-fire-pgl-cs2-major-copenhagen-2024
-7148,2370637,Vitality,TheMongolz,13,9,False,True,/matches/2370637/vitality-vs-themongolz-pgl-cs2-major-copenhagen-2024
-7148,2370634,Spirit,Cloud9,13,7,False,True,/matches/2370634/spirit-vs-cloud9-pgl-cs2-major-copenhagen-2024
-7148,2370635,G2,FURIA,13,3,False,True,/matches/2370635/g2-vs-furia-pgl-cs2-major-copenhagen-2024
-7148,2370632,FaZe,HEROIC,10,13,False,True,/matches/2370632/faze-vs-heroic-pgl-cs2-major-copenhagen-2024
-7148,2370633,Complexity,paiN,13,9,False,True,/matches/2370633/complexity-vs-pain-pgl-cs2-major-copenhagen-2024
-7148,2370630,Vitality,Eternal Fire,10,13,False,True,/matches/2370630/vitality-vs-eternal-fire-pgl-cs2-major-copenhagen-2024
-7148,2370631,Virtus.pro,Imperial,6,13,True,False,/matches/2370631/virtuspro-vs-imperial-pgl-cs2-major-copenhagen-2024
-7148,2370628,MOUZ,ECSTATIC,13,11,True,False,/matches/2370628/mouz-vs-ecstatic-pgl-cs2-major-copenhagen-2024
-7148,2370629,Natus Vincere,TheMongolz,13,10,True,False,/matches/2370629/natus-vincere-vs-themongolz-pgl-cs2-major-copenhagen-2024
 7082,2363538,FaZe,Cloud9,2,0,True,False,/matches/2363538/faze-vs-cloud9-blasttv-paris-major-2023-challengers-europe-last-chance-qualifier
 7082,2363537,Cloud9,BIG,2,0,True,False,/matches/2363537/cloud9-vs-big-blasttv-paris-major-2023-challengers-europe-last-chance-qualifier
 7082,2363536,Falcons,BIG,0,2,False,True,/matches/2363536/falcons-vs-big-blasttv-paris-major-2023-challengers-europe-last-chance-qualifier
@@ -372,6 +249,93 @@ eventId,matchId,teamOneName,teamTwoName,teamOneScore,teamTwoScore,teamOneWon,tea
 6977,2363114,fnatic,Viperio,22,20,True,False,/matches/2363114/fnatic-vs-viperio-blasttv-paris-major-2023-europe-rmr-a
 6977,2363112,Virtus.pro,SAW,16,9,False,True,/matches/2363112/virtuspro-vs-saw-blasttv-paris-major-2023-europe-rmr-a
 6977,2363113,MOUZ,B8,9,16,True,False,/matches/2363113/mouz-vs-b8-blasttv-paris-major-2023-europe-rmr-a
+6976,2368527,FaZe,Vitality,0,2,False,True,/matches/2368527/faze-vs-vitality-blast-premier-world-final-2023
+6976,2368526,Vitality,Natus Vincere,2,0,True,False,/matches/2368526/vitality-vs-natus-vincere-blast-premier-world-final-2023
+6976,2368525,FaZe,MOUZ,2,0,True,False,/matches/2368525/faze-vs-mouz-blast-premier-world-final-2023
+6976,2368524,Natus Vincere,G2,2,1,True,False,/matches/2368524/natus-vincere-vs-g2-blast-premier-world-final-2023
+6976,2368523,Cloud9,MOUZ,0,2,False,True,/matches/2368523/cloud9-vs-mouz-blast-premier-world-final-2023
+6976,2368522,FaZe,G2,2,1,True,False,/matches/2368522/faze-vs-g2-blast-premier-world-final-2023
+6976,2368521,HEROIC,MOUZ,0,2,False,True,/matches/2368521/heroic-vs-mouz-blast-premier-world-final-2023
+6976,2368520,Cloud9,Vitality,0,2,False,True,/matches/2368520/cloud9-vs-vitality-blast-premier-world-final-2023
+6976,2368519,ENCE,Natus Vincere,1,2,False,True,/matches/2368519/ence-vs-natus-vincere-blast-premier-world-final-2023
+6976,2368518,MOUZ,G2,0,2,False,True,/matches/2368518/mouz-vs-g2-blast-premier-world-final-2023
+6976,2368517,FaZe,HEROIC,2,0,True,False,/matches/2368517/faze-vs-heroic-blast-premier-world-final-2023
+6976,2368516,Vitality,Natus Vincere,2,0,True,False,/matches/2368516/vitality-vs-natus-vincere-blast-premier-world-final-2023
+6976,2368515,Cloud9,ENCE,2,0,True,False,/matches/2368515/cloud9-vs-ence-blast-premier-world-final-2023
+6975,2368041,Vitality,FaZe,2,0,True,False,/matches/2368041/vitality-vs-faze-blast-premier-fall-final-2023
+6975,2368040,FaZe,Complexity,2,1,True,False,/matches/2368040/faze-vs-complexity-blast-premier-fall-final-2023
+6975,2368039,Vitality,Cloud9,2,1,True,False,/matches/2368039/vitality-vs-cloud9-blast-premier-fall-final-2023
+6975,2368038,Natus Vincere,Complexity,1,2,False,True,/matches/2368038/natus-vincere-vs-complexity-blast-premier-fall-final-2023
+6975,2368037,Cloud9,HEROIC,2,0,True,False,/matches/2368037/cloud9-vs-heroic-blast-premier-fall-final-2023
+6975,2368036,Vitality,Complexity,2,1,True,False,/matches/2368036/vitality-vs-complexity-blast-premier-fall-final-2023
+6975,2368035,HEROIC,Astralis,2,0,True,False,/matches/2368035/heroic-vs-astralis-blast-premier-fall-final-2023
+6975,2368034,FaZe,Cloud9,2,1,True,False,/matches/2368034/faze-vs-cloud9-blast-premier-fall-final-2023
+6975,2368033,Ninjas in Pyjamas,Natus Vincere,0,2,False,True,/matches/2368033/ninjas-in-pyjamas-vs-natus-vincere-blast-premier-fall-final-2023
+6975,2368032,Complexity,Astralis,2,0,True,False,/matches/2368032/complexity-vs-astralis-blast-premier-fall-final-2023
+6975,2368031,Vitality,HEROIC,2,0,True,False,/matches/2368031/vitality-vs-heroic-blast-premier-fall-final-2023
+6975,2368030,Cloud9,Natus Vincere,2,1,True,False,/matches/2368030/cloud9-vs-natus-vincere-blast-premier-fall-final-2023
+6975,2368029,FaZe,Ninjas in Pyjamas,2,0,True,False,/matches/2368029/faze-vs-ninjas-in-pyjamas-blast-premier-fall-final-2023
+6973,2365247,Natus Vincere,G2,2,0,True,False,/matches/2365247/natus-vincere-vs-g2-blast-premier-fall-groups-2023
+6973,2365246,Vitality,BIG,2,0,True,False,/matches/2365246/vitality-vs-big-blast-premier-fall-groups-2023
+6973,2365245,Liquid,Astralis,0,2,False,True,/matches/2365245/liquid-vs-astralis-blast-premier-fall-groups-2023
+6973,2365244,Evil Geniuses,G2,1,2,False,True,/matches/2365244/evil-geniuses-vs-g2-blast-premier-fall-groups-2023
+6973,2365243,OG,BIG,1,2,False,True,/matches/2365243/og-vs-big-blast-premier-fall-groups-2023
+6973,2365242,Astralis,Complexity,2,0,True,False,/matches/2365242/astralis-vs-complexity-blast-premier-fall-groups-2023
+6973,2365241,Liquid,FaZe,0,2,False,True,/matches/2365241/liquid-vs-faze-blast-premier-fall-groups-2023
+6973,2365237,HEROIC,Natus Vincere,2,1,True,False,/matches/2365237/heroic-vs-natus-vincere-blast-premier-fall-groups-2023
+6973,2365233,Vitality,Ninjas in Pyjamas,0,2,False,True,/matches/2365233/vitality-vs-ninjas-in-pyjamas-blast-premier-fall-groups-2023
+6973,2365240,FaZe,G2,2,0,True,False,/matches/2365240/faze-vs-g2-blast-premier-fall-groups-2023
+6973,2365236,Natus Vincere,BIG,2,0,True,False,/matches/2365236/natus-vincere-vs-big-blast-premier-fall-groups-2023
+6973,2365232,Complexity,Ninjas in Pyjamas,1,2,False,True,/matches/2365232/complexity-vs-ninjas-in-pyjamas-blast-premier-fall-groups-2023
+6973,2365239,OG,G2,0,2,False,True,/matches/2365239/og-vs-g2-blast-premier-fall-groups-2023
+6973,2365238,FaZe,Liquid,1,2,False,True,/matches/2365238/faze-vs-liquid-blast-premier-fall-groups-2023
+6973,2365235,BIG,Astralis,2,1,True,False,/matches/2365235/big-vs-astralis-blast-premier-fall-groups-2023
+6973,2365234,HEROIC,Natus Vincere,2,0,True,False,/matches/2365234/heroic-vs-natus-vincere-blast-premier-fall-groups-2023
+6973,2365231,Evil Geniuses,Ninjas in Pyjamas,0,2,False,True,/matches/2365231/evil-geniuses-vs-ninjas-in-pyjamas-blast-premier-fall-groups-2023
+6973,2365230,Vitality,Complexity,2,0,True,False,/matches/2365230/vitality-vs-complexity-blast-premier-fall-groups-2023
+6973,2365229,G2,Liquid,1,2,False,True,/matches/2365229/g2-vs-liquid-blast-premier-fall-groups-2023
+6973,2365228,FaZe,OG,2,0,True,False,/matches/2365228/faze-vs-og-blast-premier-fall-groups-2023
+6973,2365227,Natus Vincere,Astralis,2,1,True,False,/matches/2365227/natus-vincere-vs-astralis-blast-premier-fall-groups-2023
+6973,2365226,HEROIC,BIG,2,0,True,False,/matches/2365226/heroic-vs-big-blast-premier-fall-groups-2023
+6973,2365225,Ninjas in Pyjamas,Complexity,1,2,False,True,/matches/2365225/ninjas-in-pyjamas-vs-complexity-blast-premier-fall-groups-2023
+6973,2365224,Vitality,Evil Geniuses,2,0,True,False,/matches/2365224/vitality-vs-evil-geniuses-blast-premier-fall-groups-2023
+6972,2364753,HEROIC,Vitality,2,1,True,False,/matches/2364753/heroic-vs-vitality-blast-premier-spring-final-2023
+6972,2364752,G2,Vitality,1,2,False,True,/matches/2364752/g2-vs-vitality-blast-premier-spring-final-2023
+6972,2364751,HEROIC,Imperial,2,1,True,False,/matches/2364751/heroic-vs-imperial-blast-premier-spring-final-2023
+6972,2364750,Vitality,FaZe,2,0,True,False,/matches/2364750/vitality-vs-faze-blast-premier-spring-final-2023
+6972,2364749,Imperial,Complexity,2,0,True,False,/matches/2364749/imperial-vs-complexity-blast-premier-spring-final-2023
+6972,2364716,HEROIC,FaZe,2,0,True,False,/matches/2364716/heroic-vs-faze-blast-premier-spring-final-2023
+6972,2364715,Complexity,Astralis,2,1,True,False,/matches/2364715/complexity-vs-astralis-blast-premier-spring-final-2023
+6972,2364713,Imperial,G2,1,2,False,True,/matches/2364713/imperial-vs-g2-blast-premier-spring-final-2023
+6972,2364714,Vitality,Cloud9,2,0,True,False,/matches/2364714/vitality-vs-cloud9-blast-premier-spring-final-2023
+6972,2364712,FaZe,Astralis,2,0,True,False,/matches/2364712/faze-vs-astralis-blast-premier-spring-final-2023
+6972,2364711,HEROIC,Complexity,2,0,True,False,/matches/2364711/heroic-vs-complexity-blast-premier-spring-final-2023
+6972,2364710,G2,Cloud9,2,0,True,False,/matches/2364710/g2-vs-cloud9-blast-premier-spring-final-2023
+6972,2364709,Vitality,Imperial,0,2,False,True,/matches/2364709/vitality-vs-imperial-blast-premier-spring-final-2023
+6970,2361069,OG,Astralis,1,2,False,True,/matches/2361069/og-vs-astralis-blast-premier-spring-groups-2023
+6970,2361068,HEROIC,BIG,2,1,True,False,/matches/2361068/heroic-vs-big-blast-premier-spring-groups-2023
+6970,2361067,Natus Vincere,Complexity,2,1,True,False,/matches/2361067/natus-vincere-vs-complexity-blast-premier-spring-groups-2023
+6970,2361066,Astralis,Ninjas in Pyjamas,2,1,True,False,/matches/2361066/astralis-vs-ninjas-in-pyjamas-blast-premier-spring-groups-2023
+6970,2361065,BIG,Liquid,2,0,True,False,/matches/2361065/big-vs-liquid-blast-premier-spring-groups-2023
+6970,2361064,Complexity,Evil Geniuses,2,1,True,False,/matches/2361064/complexity-vs-evil-geniuses-blast-premier-spring-groups-2023
+6970,2361063,G2,Natus Vincere,2,0,True,False,/matches/2361063/g2-vs-natus-vincere-blast-premier-spring-groups-2023
+6970,2361062,FaZe,OG,2,0,True,False,/matches/2361062/faze-vs-og-blast-premier-spring-groups-2023
+6970,2361061,Vitality,HEROIC,2,1,True,False,/matches/2361061/vitality-vs-heroic-blast-premier-spring-groups-2023
+6970,2361060,Natus Vincere,Ninjas in Pyjamas,2,1,True,False,/matches/2361060/natus-vincere-vs-ninjas-in-pyjamas-blast-premier-spring-groups-2023
+6970,2361059,OG,Liquid,2,1,True,False,/matches/2361059/og-vs-liquid-blast-premier-spring-groups-2023
+6970,2361058,Evil Geniuses,HEROIC,1,2,False,True,/matches/2361058/evil-geniuses-vs-heroic-blast-premier-spring-groups-2023
+6970,2361057,BIG,Ninjas in Pyjamas,0,2,False,True,/matches/2361057/big-vs-ninjas-in-pyjamas-blast-premier-spring-groups-2023
+6970,2361056,G2,Natus Vincere,2,0,True,False,/matches/2361056/g2-vs-natus-vincere-blast-premier-spring-groups-2023
+6970,2361055,Complexity,Liquid,0,2,False,True,/matches/2361055/complexity-vs-liquid-blast-premier-spring-groups-2023
+6970,2361054,FaZe,OG,2,1,True,False,/matches/2361054/faze-vs-og-blast-premier-spring-groups-2023
+6970,2361053,HEROIC,Astralis,2,1,True,False,/matches/2361053/heroic-vs-astralis-blast-premier-spring-groups-2023
+6970,2361052,Evil Geniuses,Vitality,0,2,False,True,/matches/2361052/evil-geniuses-vs-vitality-blast-premier-spring-groups-2023
+6970,2361051,Natus Vincere,Ninjas in Pyjamas,2,1,True,False,/matches/2361051/natus-vincere-vs-ninjas-in-pyjamas-blast-premier-spring-groups-2023
+6970,2361050,G2,BIG,2,0,True,False,/matches/2361050/g2-vs-big-blast-premier-spring-groups-2023
+6970,2361049,Liquid,OG,0,2,False,True,/matches/2361049/liquid-vs-og-blast-premier-spring-groups-2023
+6970,2361048,FaZe,Complexity,2,0,True,False,/matches/2361048/faze-vs-complexity-blast-premier-spring-groups-2023
+6970,2361047,Vitality,Astralis,2,0,True,False,/matches/2361047/vitality-vs-astralis-blast-premier-spring-groups-2023
+6970,2361046,HEROIC,Evil Geniuses,1,2,False,True,/matches/2361046/heroic-vs-evil-geniuses-blast-premier-spring-groups-2023
 6921,2361728,NAVI Javelins,Nigma Galaxy,0,2,False,True,/matches/2361728/navi-javelins-vs-nigma-galaxy-esl-impact-katowice-2023
 6921,2361726,Nigma Galaxy,FURIA fe,2,1,True,False,/matches/2361726/nigma-galaxy-vs-furia-fe-esl-impact-katowice-2023
 6921,2361727,NAVI Javelins,B4 fe,2,0,True,False,/matches/2361727/navi-javelins-vs-b4-fe-esl-impact-katowice-2023
@@ -695,3 +659,582 @@ eventId,matchId,teamOneName,teamTwoName,teamOneScore,teamTwoScore,teamOneWon,tea
 6793,2363862,FURIA,Monte,7,16,True,False,/matches/2363862/furia-vs-monte-blasttv-paris-major-2023
 6793,2363861,9INE,Liquid,9,16,True,False,/matches/2363861/9ine-vs-liquid-blasttv-paris-major-2023
 6793,2363860,Natus Vincere,GamerLegion,16,10,True,False,/matches/2363860/natus-vincere-vs-gamerlegion-blasttv-paris-major-2023
+6714,2359367,OG,HEROIC,1,2,False,True,/matches/2359367/og-vs-heroic-iem-road-to-rio-2022-europe-rmr-b
+6714,2358452,Outsiders,Falcons,2,0,True,False,/matches/2358452/outsiders-vs-falcons-iem-road-to-rio-2022-europe-rmr-b
+6714,2358451,MOUZ,Sangal,2,1,True,False,/matches/2358451/mouz-vs-sangal-iem-road-to-rio-2022-europe-rmr-b
+6714,2358450,BIG,K23,2,1,True,False,/matches/2358450/big-vs-k23-iem-road-to-rio-2022-europe-rmr-b
+6714,2359366,Vitality,HEROIC,1,2,False,True,/matches/2359366/vitality-vs-heroic-iem-road-to-rio-2022-europe-rmr-b
+6714,2358444,Falcons,HEET,2,1,True,False,/matches/2358444/falcons-vs-heet-iem-road-to-rio-2022-europe-rmr-b
+6714,2358446,K23,Monte,2,0,True,False,/matches/2358446/k23-vs-monte-iem-road-to-rio-2022-europe-rmr-b
+6714,2358445,Sangal,Illuminar,2,0,True,False,/matches/2358445/sangal-vs-illuminar-iem-road-to-rio-2022-europe-rmr-b
+6714,2358443,OG,Outsiders,2,1,True,False,/matches/2358443/og-vs-outsiders-iem-road-to-rio-2022-europe-rmr-b
+6714,2358441,MOUZ,Vitality,1,2,False,True,/matches/2358441/mouz-vs-vitality-iem-road-to-rio-2022-europe-rmr-b
+6714,2358442,BIG,HEROIC,0,2,False,True,/matches/2358442/big-vs-heroic-iem-road-to-rio-2022-europe-rmr-b
+6714,2358434,FANTASY,Illuminar,1,2,False,True,/matches/2358434/fantasy-vs-illuminar-iem-road-to-rio-2022-europe-rmr-b
+6714,2358433,HEET,SAW,2,1,True,False,/matches/2358433/heet-vs-saw-iem-road-to-rio-2022-europe-rmr-b
+6714,2358432,ENCE,BIG,2,0,True,False,/matches/2358432/ence-vs-big-iem-road-to-rio-2022-europe-rmr-b
+6714,2358431,Natus Vincere,Outsiders,2,0,True,False,/matches/2358431/natus-vincere-vs-outsiders-iem-road-to-rio-2022-europe-rmr-b
+6714,2358430,K23,MOUZ,10,16,False,True,/matches/2358430/k23-vs-mouz-iem-road-to-rio-2022-europe-rmr-b
+6714,2358429,Falcons,OG,12,16,False,True,/matches/2358429/falcons-vs-og-iem-road-to-rio-2022-europe-rmr-b
+6714,2358427,Monte,Vitality,7,16,True,False,/matches/2358427/monte-vs-vitality-iem-road-to-rio-2022-europe-rmr-b
+6714,2358428,HEROIC,Sangal,16,6,False,True,/matches/2358428/heroic-vs-sangal-iem-road-to-rio-2022-europe-rmr-b
+6714,2358417,Natus Vincere,MOUZ,16,11,True,False,/matches/2358417/natus-vincere-vs-mouz-iem-road-to-rio-2022-europe-rmr-b
+6714,2358418,HEROIC,Outsiders,12,16,False,True,/matches/2358418/heroic-vs-outsiders-iem-road-to-rio-2022-europe-rmr-b
+6714,2358415,BIG,Vitality,16,10,True,False,/matches/2358415/big-vs-vitality-iem-road-to-rio-2022-europe-rmr-b
+6714,2358416,Falcons,ENCE,6,16,True,False,/matches/2358416/falcons-vs-ence-iem-road-to-rio-2022-europe-rmr-b
+6714,2358413,OG,Illuminar,16,5,False,True,/matches/2358413/og-vs-illuminar-iem-road-to-rio-2022-europe-rmr-b
+6714,2358414,Monte,SAW,16,3,False,True,/matches/2358414/monte-vs-saw-iem-road-to-rio-2022-europe-rmr-b
+6714,2358411,HEET,K23,13,16,False,True,/matches/2358411/heet-vs-k23-iem-road-to-rio-2022-europe-rmr-b
+6714,2358412,FANTASY,Sangal,12,16,False,True,/matches/2358412/fantasy-vs-sangal-iem-road-to-rio-2022-europe-rmr-b
+6714,2358395,Natus Vincere,Illuminar,16,5,False,True,/matches/2358395/natus-vincere-vs-illuminar-iem-road-to-rio-2022-europe-rmr-b
+6714,2358402,MOUZ,OG,16,10,True,False,/matches/2358402/mouz-vs-og-iem-road-to-rio-2022-europe-rmr-b
+6714,2358399,BIG,Sangal,16,3,False,True,/matches/2358399/big-vs-sangal-iem-road-to-rio-2022-europe-rmr-b
+6714,2358396,ENCE,HEET,16,8,False,True,/matches/2358396/ence-vs-heet-iem-road-to-rio-2022-europe-rmr-b
+6714,2358397,HEROIC,SAW,16,5,False,True,/matches/2358397/heroic-vs-saw-iem-road-to-rio-2022-europe-rmr-b
+6714,2358401,Falcons,K23,16,9,False,True,/matches/2358401/falcons-vs-k23-iem-road-to-rio-2022-europe-rmr-b
+6714,2358398,Vitality,FANTASY,16,6,False,True,/matches/2358398/vitality-vs-fantasy-iem-road-to-rio-2022-europe-rmr-b
+6714,2358400,Outsiders,Monte,16,9,False,True,/matches/2358400/outsiders-vs-monte-iem-road-to-rio-2022-europe-rmr-b
+6713,2359365,Spirit,Cloud9,2,1,True,False,/matches/2359365/spirit-vs-cloud9-iem-road-to-rio-2022-europe-rmr-a
+6713,2358447,FORZE,Bad News Eagles,1,2,False,True,/matches/2358447/forze-vs-bad-news-eagles-iem-road-to-rio-2022-europe-rmr-a
+6713,2358449,GamerLegion,B8,2,0,True,False,/matches/2358449/gamerlegion-vs-b8-iem-road-to-rio-2022-europe-rmr-a
+6713,2358448,fnatic,1WIN,2,0,True,False,/matches/2358448/fnatic-vs-1win-iem-road-to-rio-2022-europe-rmr-a
+6713,2358440,Astralis,FORZE,0,2,False,True,/matches/2358440/astralis-vs-forze-iem-road-to-rio-2022-europe-rmr-a
+6713,2358439,G2,GamerLegion,1,2,False,True,/matches/2358439/g2-vs-gamerlegion-iem-road-to-rio-2022-europe-rmr-a
+6713,2358438,fnatic,Eternal Fire,2,0,True,False,/matches/2358438/fnatic-vs-eternal-fire-iem-road-to-rio-2022-europe-rmr-a
+6713,2358437,B8,Sprout,1,2,False,True,/matches/2358437/b8-vs-sprout-iem-road-to-rio-2022-europe-rmr-a
+6713,2358436,Cloud9,1WIN,2,0,True,False,/matches/2358436/cloud9-vs-1win-iem-road-to-rio-2022-europe-rmr-a
+6713,2358435,Spirit,Bad News Eagles,2,0,True,False,/matches/2358435/spirit-vs-bad-news-eagles-iem-road-to-rio-2022-europe-rmr-a
+6713,2358426,FORZE,ECSTATIC,2,0,True,False,/matches/2358426/forze-vs-ecstatic-iem-road-to-rio-2022-europe-rmr-a
+6713,2358423,Cloud9,Ninjas in Pyjamas,1,2,False,True,/matches/2358423/cloud9-vs-ninjas-in-pyjamas-iem-road-to-rio-2022-europe-rmr-a
+6713,2358425,Eternal Fire,Aurora,2,1,True,False,/matches/2358425/eternal-fire-vs-aurora-iem-road-to-rio-2022-europe-rmr-a
+6713,2358424,FaZe,Sprout,2,1,True,False,/matches/2358424/faze-vs-sprout-iem-road-to-rio-2022-europe-rmr-a
+6713,2358422,1WIN,G2,16,13,True,False,/matches/2358422/1win-vs-g2-iem-road-to-rio-2022-europe-rmr-a
+6713,2358420,Spirit,GamerLegion,22,20,True,False,/matches/2358420/spirit-vs-gamerlegion-iem-road-to-rio-2022-europe-rmr-a
+6713,2358421,B8,fnatic,16,9,False,True,/matches/2358421/b8-vs-fnatic-iem-road-to-rio-2022-europe-rmr-a
+6713,2358419,Bad News Eagles,Astralis,16,3,False,True,/matches/2358419/bad-news-eagles-vs-astralis-iem-road-to-rio-2022-europe-rmr-a
+6713,2358409,Cloud9,G2,16,13,True,False,/matches/2358409/cloud9-vs-g2-iem-road-to-rio-2022-europe-rmr-a
+6713,2358410,Ninjas in Pyjamas,Bad News Eagles,16,7,False,True,/matches/2358410/ninjas-in-pyjamas-vs-bad-news-eagles-iem-road-to-rio-2022-europe-rmr-a
+6713,2358407,FaZe,fnatic,19,17,True,False,/matches/2358407/faze-vs-fnatic-iem-road-to-rio-2022-europe-rmr-a
+6713,2358408,Sprout,Spirit,16,12,True,False,/matches/2358408/sprout-vs-spirit-iem-road-to-rio-2022-europe-rmr-a
+6713,2358405,Astralis,Eternal Fire,16,9,False,True,/matches/2358405/astralis-vs-eternal-fire-iem-road-to-rio-2022-europe-rmr-a
+6713,2358406,Aurora,GamerLegion,10,16,False,True,/matches/2358406/aurora-vs-gamerlegion-iem-road-to-rio-2022-europe-rmr-a
+6713,2358404,ECSTATIC,B8,16,19,False,True,/matches/2358404/ecstatic-vs-b8-iem-road-to-rio-2022-europe-rmr-a
+6713,2358403,FORZE,1WIN,14,16,False,True,/matches/2358403/forze-vs-1win-iem-road-to-rio-2022-europe-rmr-a
+6713,2358389,Ninjas in Pyjamas,Astralis,16,12,True,False,/matches/2358389/ninjas-in-pyjamas-vs-astralis-iem-road-to-rio-2022-europe-rmr-a
+6713,2358394,Aurora,fnatic,4,16,True,False,/matches/2358394/aurora-vs-fnatic-iem-road-to-rio-2022-europe-rmr-a
+6713,2358387,FaZe,GamerLegion,28,25,True,False,/matches/2358387/faze-vs-gamerlegion-iem-road-to-rio-2022-europe-rmr-a
+6713,2358388,Spirit,1WIN,16,9,False,True,/matches/2358388/spirit-vs-1win-iem-road-to-rio-2022-europe-rmr-a
+6713,2358391,Cloud9,B8,16,6,False,True,/matches/2358391/cloud9-vs-b8-iem-road-to-rio-2022-europe-rmr-a
+6713,2358390,G2,ECSTATIC,16,0,True,False,/matches/2358390/g2-vs-ecstatic-iem-road-to-rio-2022-europe-rmr-a
+6713,2358393,Sprout,FORZE,19,17,True,False,/matches/2358393/sprout-vs-forze-iem-road-to-rio-2022-europe-rmr-a
+6713,2358392,Bad News Eagles,Eternal Fire,16,14,True,False,/matches/2358392/bad-news-eagles-vs-eternal-fire-iem-road-to-rio-2022-europe-rmr-a
+6712,2358384,Complexity,Imperial,1,2,False,True,/matches/2358384/complexity-vs-imperial-iem-road-to-rio-2022-americas-rmr
+6712,2358383,Evil Geniuses,Liquid,0,2,False,True,/matches/2358383/evil-geniuses-vs-liquid-iem-road-to-rio-2022-americas-rmr
+6712,2358382,Imperial,paiN,2,0,True,False,/matches/2358382/imperial-vs-pain-iem-road-to-rio-2022-americas-rmr
+6712,2358381,Complexity,Isurus,2,1,True,False,/matches/2358381/complexity-vs-isurus-iem-road-to-rio-2022-americas-rmr
+6712,2358380,Imperial,Nouns,2,0,True,False,/matches/2358380/imperial-vs-nouns-iem-road-to-rio-2022-americas-rmr
+6712,2358379,paiN,ATK,2,0,True,False,/matches/2358379/pain-vs-atk-iem-road-to-rio-2022-americas-rmr
+6712,2358378,MIBR,Isurus,1,2,False,True,/matches/2358378/mibr-vs-isurus-iem-road-to-rio-2022-americas-rmr
+6712,2358377,Imperial,TeamOne,2,1,True,False,/matches/2358377/imperial-vs-teamone-iem-road-to-rio-2022-americas-rmr
+6712,2358376,Nouns,O PLANO,2,1,True,False,/matches/2358376/nouns-vs-o-plano-iem-road-to-rio-2022-americas-rmr
+6712,2358375,Complexity,00NATION,1,2,False,True,/matches/2358375/complexity-vs-00nation-iem-road-to-rio-2022-americas-rmr
+6712,2358373,FURIA,paiN,2,0,True,False,/matches/2358373/furia-vs-pain-iem-road-to-rio-2022-americas-rmr
+6712,2358374,ATK,9z,0,2,False,True,/matches/2358374/atk-vs-9z-iem-road-to-rio-2022-americas-rmr
+6712,2358371,Isurus,ARCTIC,2,0,True,False,/matches/2358371/isurus-vs-arctic-iem-road-to-rio-2022-americas-rmr
+6712,2358372,TeamOne,Infinity,2,0,True,False,/matches/2358372/teamone-vs-infinity-iem-road-to-rio-2022-americas-rmr
+6712,2358369,Complexity,Liquid,1,2,False,True,/matches/2358369/complexity-vs-liquid-iem-road-to-rio-2022-americas-rmr
+6712,2358370,Evil Geniuses,9z,2,1,True,False,/matches/2358370/evil-geniuses-vs-9z-iem-road-to-rio-2022-americas-rmr
+6712,2358367,Imperial,00NATION,11,16,False,True,/matches/2358367/imperial-vs-00nation-iem-road-to-rio-2022-americas-rmr
+6712,2358368,O PLANO,FURIA,2,16,True,False,/matches/2358368/o-plano-vs-furia-iem-road-to-rio-2022-americas-rmr
+6712,2358366,Nouns,paiN,8,16,True,False,/matches/2358366/nouns-vs-pain-iem-road-to-rio-2022-americas-rmr
+6712,2358365,MIBR,ATK,8,16,True,False,/matches/2358365/mibr-vs-atk-iem-road-to-rio-2022-americas-rmr
+6712,2358363,Isurus,00NATION,10,16,False,True,/matches/2358363/isurus-vs-00nation-iem-road-to-rio-2022-americas-rmr
+6712,2358364,O PLANO,TeamOne,16,10,True,False,/matches/2358364/o-plano-vs-teamone-iem-road-to-rio-2022-americas-rmr
+6712,2358361,ARCTIC,ATK,11,16,False,True,/matches/2358361/arctic-vs-atk-iem-road-to-rio-2022-americas-rmr
+6712,2358362,Nouns,Infinity,16,2,False,True,/matches/2358362/nouns-vs-infinity-iem-road-to-rio-2022-americas-rmr
+6712,2358359,Liquid,MIBR,19,16,True,False,/matches/2358359/liquid-vs-mibr-iem-road-to-rio-2022-americas-rmr
+6712,2358360,Complexity,paiN,16,7,False,True,/matches/2358360/complexity-vs-pain-iem-road-to-rio-2022-americas-rmr
+6712,2358358,9z,Imperial,22,20,True,False,/matches/2358358/9z-vs-imperial-iem-road-to-rio-2022-americas-rmr
+6712,2358357,FURIA,Evil Geniuses,14,16,False,True,/matches/2358357/furia-vs-evil-geniuses-iem-road-to-rio-2022-americas-rmr
+6712,2358351,Liquid,TeamOne,16,6,False,True,/matches/2358351/liquid-vs-teamone-iem-road-to-rio-2022-americas-rmr
+6712,2358354,MIBR,O PLANO,16,9,False,True,/matches/2358354/mibr-vs-o-plano-iem-road-to-rio-2022-americas-rmr
+6712,2358356,00NATION,9z,16,19,False,True,/matches/2358356/00nation-vs-9z-iem-road-to-rio-2022-americas-rmr
+6712,2358353,Complexity,ATK,16,5,False,True,/matches/2358353/complexity-vs-atk-iem-road-to-rio-2022-americas-rmr
+6712,2358352,paiN,ARCTIC,16,13,True,False,/matches/2358352/pain-vs-arctic-iem-road-to-rio-2022-americas-rmr
+6712,2358355,Nouns,Evil Geniuses,7,16,True,False,/matches/2358355/nouns-vs-evil-geniuses-iem-road-to-rio-2022-americas-rmr
+6712,2358350,Imperial,Isurus,16,2,False,True,/matches/2358350/imperial-vs-isurus-iem-road-to-rio-2022-americas-rmr
+6712,2358349,FURIA,Infinity,16,2,False,True,/matches/2358349/furia-vs-infinity-iem-road-to-rio-2022-americas-rmr
+6711,2358256,JiJieHao International,Grayhound,0,2,False,True,/matches/2358256/jijiehao-international-vs-grayhound-iem-road-to-rio-2022-asia-rmr
+6711,2358255,IHC,Grayhound,2,0,True,False,/matches/2358255/ihc-vs-grayhound-iem-road-to-rio-2022-asia-rmr
+6711,2358254,JiJieHao International,Rare Atom,2,1,True,False,/matches/2358254/jijiehao-international-vs-rare-atom-iem-road-to-rio-2022-asia-rmr
+6711,2358253,Grayhound,Rare Atom,2,1,True,False,/matches/2358253/grayhound-vs-rare-atom-iem-road-to-rio-2022-asia-rmr
+6711,2358252,IHC,JiJieHao International,2,0,True,False,/matches/2358252/ihc-vs-jijiehao-international-iem-road-to-rio-2022-asia-rmr
+6588,2359806,fnatic,9z,2,0,True,False,/matches/2359806/fnatic-vs-9z-iem-rio-major-2022-challengers-stage
+6588,2359805,GamerLegion,Cloud9,0,2,False,True,/matches/2359805/gamerlegion-vs-cloud9-iem-rio-major-2022-challengers-stage
+6588,2359804,OG,Vitality,1,2,False,True,/matches/2359804/og-vs-vitality-iem-rio-major-2022-challengers-stage
+6588,2359802,GamerLegion,FURIA,0,2,False,True,/matches/2359802/gamerlegion-vs-furia-iem-rio-major-2022-challengers-stage
+6588,2359803,Evil Geniuses,Cloud9,0,2,False,True,/matches/2359803/evil-geniuses-vs-cloud9-iem-rio-major-2022-challengers-stage
+6588,2359801,Outsiders,fnatic,2,0,True,False,/matches/2359801/outsiders-vs-fnatic-iem-rio-major-2022-challengers-stage
+6588,2359800,Vitality,Grayhound,2,0,True,False,/matches/2359800/vitality-vs-grayhound-iem-rio-major-2022-challengers-stage
+6588,2359799,OG,IHC,2,0,True,False,/matches/2359799/og-vs-ihc-iem-rio-major-2022-challengers-stage
+6588,2359798,BIG,9z,2,0,True,False,/matches/2359798/big-vs-9z-iem-rio-major-2022-challengers-stage
+6588,2359796,Cloud9,Imperial,2,0,True,False,/matches/2359796/cloud9-vs-imperial-iem-rio-major-2022-challengers-stage
+6588,2359797,GamerLegion,Bad News Eagles,0,2,False,True,/matches/2359797/gamerlegion-vs-bad-news-eagles-iem-rio-major-2022-challengers-stage
+6588,2359794,00NATION,IHC,1,2,False,True,/matches/2359794/00nation-vs-ihc-iem-rio-major-2022-challengers-stage
+6588,2359795,MOUZ,fnatic,2,1,True,False,/matches/2359795/mouz-vs-fnatic-iem-rio-major-2022-challengers-stage
+6588,2359792,OG,FURIA,16,19,False,True,/matches/2359792/og-vs-furia-iem-rio-major-2022-challengers-stage
+6588,2359793,BIG,Grayhound,16,6,False,True,/matches/2359793/big-vs-grayhound-iem-rio-major-2022-challengers-stage
+6588,2359790,Evil Geniuses,9z,17,19,False,True,/matches/2359790/evil-geniuses-vs-9z-iem-rio-major-2022-challengers-stage
+6588,2359791,Vitality,Outsiders,12,16,False,True,/matches/2359791/vitality-vs-outsiders-iem-rio-major-2022-challengers-stage
+6588,2359789,Cloud9,Grayhound,17,19,False,True,/matches/2359789/cloud9-vs-grayhound-iem-rio-major-2022-challengers-stage
+6588,2359788,OG,fnatic,13,16,False,True,/matches/2359788/og-vs-fnatic-iem-rio-major-2022-challengers-stage
+6588,2359787,Vitality,GamerLegion,10,16,False,True,/matches/2359787/vitality-vs-gamerlegion-iem-rio-major-2022-challengers-stage
+6588,2359786,9z,Imperial,16,11,True,False,/matches/2359786/9z-vs-imperial-iem-rio-major-2022-challengers-stage
+6588,2359785,BIG,Bad News Eagles,11,16,False,True,/matches/2359785/big-vs-bad-news-eagles-iem-rio-major-2022-challengers-stage
+6588,2359784,Evil Geniuses,MOUZ,10,16,False,True,/matches/2359784/evil-geniuses-vs-mouz-iem-rio-major-2022-challengers-stage
+6588,2359783,Outsiders,IHC,16,12,True,False,/matches/2359783/outsiders-vs-ihc-iem-rio-major-2022-challengers-stage
+6588,2359782,00NATION,FURIA,6,16,True,False,/matches/2359782/00nation-vs-furia-iem-rio-major-2022-challengers-stage
+6588,2359615,Cloud9,fnatic,17,19,False,True,/matches/2359615/cloud9-vs-fnatic-iem-rio-major-2022-challengers-stage
+6588,2359614,Vitality,Imperial,16,9,False,True,/matches/2359614/vitality-vs-imperial-iem-rio-major-2022-challengers-stage
+6588,2359613,Evil Geniuses,IHC,16,9,False,True,/matches/2359613/evil-geniuses-vs-ihc-iem-rio-major-2022-challengers-stage
+6588,2359612,BIG,FURIA,19,16,True,False,/matches/2359612/big-vs-furia-iem-rio-major-2022-challengers-stage
+6588,2359611,OG,Grayhound,16,5,False,True,/matches/2359611/og-vs-grayhound-iem-rio-major-2022-challengers-stage
+6588,2359610,Bad News Eagles,00NATION,16,3,False,True,/matches/2359610/bad-news-eagles-vs-00nation-iem-rio-major-2022-challengers-stage
+6588,2359608,MOUZ,Outsiders,16,6,False,True,/matches/2359608/mouz-vs-outsiders-iem-rio-major-2022-challengers-stage
+6588,2359609,9z,GamerLegion,6,16,True,False,/matches/2359609/9z-vs-gamerlegion-iem-rio-major-2022-challengers-stage
+6587,2356676,MOUZ,Ninjas in Pyjamas,1,2,False,True,/matches/2356676/mouz-vs-ninjas-in-pyjamas-global-esports-tour-dubai-2022
+6587,2356674,OG,Ninjas in Pyjamas,0,2,False,True,/matches/2356674/og-vs-ninjas-in-pyjamas-global-esports-tour-dubai-2022
+6587,2356675,Movistar Riders,MOUZ,0,2,False,True,/matches/2356675/movistar-riders-vs-mouz-global-esports-tour-dubai-2022
+6587,2356673,Ninjas in Pyjamas,NASR,2,1,True,False,/matches/2356673/ninjas-in-pyjamas-vs-nasr-global-esports-tour-dubai-2022
+6587,2356672,MOUZ,Falcons,2,0,True,False,/matches/2356672/mouz-vs-falcons-global-esports-tour-dubai-2022
+6587,2356671,Movistar Riders,TYLOO,2,1,True,False,/matches/2356671/movistar-riders-vs-tyloo-global-esports-tour-dubai-2022
+6587,2356670,Complexity,OG,1,2,False,True,/matches/2356670/complexity-vs-og-global-esports-tour-dubai-2022
+6586,2359846,Outsiders,HEROIC,2,0,True,False,/matches/2359846/outsiders-vs-heroic-iem-rio-major-2022
+6586,2359845,HEROIC,FURIA,2,1,True,False,/matches/2359845/heroic-vs-furia-iem-rio-major-2022
+6586,2359844,Outsiders,MOUZ,2,1,True,False,/matches/2359844/outsiders-vs-mouz-iem-rio-major-2022
+6586,2359843,FURIA,Natus Vincere,2,1,True,False,/matches/2359843/furia-vs-natus-vincere-iem-rio-major-2022
+6586,2359842,Spirit,HEROIC,0,2,False,True,/matches/2359842/spirit-vs-heroic-iem-rio-major-2022
+6586,2359841,MOUZ,Cloud9,2,1,True,False,/matches/2359841/mouz-vs-cloud9-iem-rio-major-2022
+6586,2359840,Outsiders,fnatic,2,0,True,False,/matches/2359840/outsiders-vs-fnatic-iem-rio-major-2022
+6586,2359839,Liquid,Spirit,1,2,False,True,/matches/2359839/liquid-vs-spirit-iem-rio-major-2022
+6586,2359838,BIG,Natus Vincere,0,2,False,True,/matches/2359838/big-vs-natus-vincere-iem-rio-major-2022
+6586,2359837,MOUZ,ENCE,2,1,True,False,/matches/2359837/mouz-vs-ence-iem-rio-major-2022
+6586,2359835,HEROIC,Liquid,2,1,True,False,/matches/2359835/heroic-vs-liquid-iem-rio-major-2022
+6586,2359836,Spirit,Sprout,2,0,True,False,/matches/2359836/spirit-vs-sprout-iem-rio-major-2022
+6586,2359833,ENCE,Vitality,2,0,True,False,/matches/2359833/ence-vs-vitality-iem-rio-major-2022
+6586,2359834,BIG,fnatic,0,2,False,True,/matches/2359834/big-vs-fnatic-iem-rio-major-2022
+6586,2359832,MOUZ,Outsiders,0,2,False,True,/matches/2359832/mouz-vs-outsiders-iem-rio-major-2022
+6586,2359831,Natus Vincere,Bad News Eagles,2,0,True,False,/matches/2359831/natus-vincere-vs-bad-news-eagles-iem-rio-major-2022
+6586,2359830,Sprout,Ninjas in Pyjamas,2,0,True,False,/matches/2359830/sprout-vs-ninjas-in-pyjamas-iem-rio-major-2022
+6586,2359829,FURIA,BIG,2,0,True,False,/matches/2359829/furia-vs-big-iem-rio-major-2022
+6586,2359828,FaZe,Bad News Eagles,1,2,False,True,/matches/2359828/faze-vs-bad-news-eagles-iem-rio-major-2022
+6586,2359827,HEROIC,Cloud9,0,2,False,True,/matches/2359827/heroic-vs-cloud9-iem-rio-major-2022
+6586,2359825,Spirit,Outsiders,14,16,False,True,/matches/2359825/spirit-vs-outsiders-iem-rio-major-2022
+6586,2359826,ENCE,fnatic,7,16,True,False,/matches/2359826/ence-vs-fnatic-iem-rio-major-2022
+6586,2359824,MOUZ,Vitality,19,17,True,False,/matches/2359824/mouz-vs-vitality-iem-rio-major-2022
+6586,2359823,Natus Vincere,Liquid,14,16,False,True,/matches/2359823/natus-vincere-vs-liquid-iem-rio-major-2022
+6586,2359822,Ninjas in Pyjamas,Outsiders,12,16,False,True,/matches/2359822/ninjas-in-pyjamas-vs-outsiders-iem-rio-major-2022
+6586,2359821,HEROIC,fnatic,16,2,False,True,/matches/2359821/heroic-vs-fnatic-iem-rio-major-2022
+6586,2359820,ENCE,Bad News Eagles,16,7,False,True,/matches/2359820/ence-vs-bad-news-eagles-iem-rio-major-2022
+6586,2359819,Spirit,FURIA,13,16,False,True,/matches/2359819/spirit-vs-furia-iem-rio-major-2022
+6586,2359818,Natus Vincere,Cloud9,14,16,False,True,/matches/2359818/natus-vincere-vs-cloud9-iem-rio-major-2022
+6586,2359817,FaZe,Vitality,6,16,True,False,/matches/2359817/faze-vs-vitality-iem-rio-major-2022
+6586,2359815,Sprout,Liquid,5,16,True,False,/matches/2359815/sprout-vs-liquid-iem-rio-major-2022
+6586,2359816,MOUZ,BIG,7,16,True,False,/matches/2359816/mouz-vs-big-iem-rio-major-2022
+6586,2359813,FURIA,ENCE,16,6,False,True,/matches/2359813/furia-vs-ence-iem-rio-major-2022
+6586,2359814,Ninjas in Pyjamas,fnatic,13,16,False,True,/matches/2359814/ninjas-in-pyjamas-vs-fnatic-iem-rio-major-2022
+6586,2359811,Vitality,Natus Vincere,21,25,False,True,/matches/2359811/vitality-vs-natus-vincere-iem-rio-major-2022
+6586,2359812,Outsiders,HEROIC,9,16,True,False,/matches/2359812/outsiders-vs-heroic-iem-rio-major-2022
+6586,2359809,FaZe,Cloud9,14,16,False,True,/matches/2359809/faze-vs-cloud9-iem-rio-major-2022
+6586,2359810,Sprout,BIG,11,16,False,True,/matches/2359810/sprout-vs-big-iem-rio-major-2022
+6586,2359808,Spirit,Bad News Eagles,16,8,False,True,/matches/2359808/spirit-vs-bad-news-eagles-iem-rio-major-2022
+6586,2359807,MOUZ,Liquid,16,2,False,True,/matches/2359807/mouz-vs-liquid-iem-rio-major-2022
+6577,2357123,Nigma Galaxy,FURIA fe,2,0,True,False,/matches/2357123/nigma-galaxy-vs-furia-fe-esl-impact-valencia-2022
+6577,2357122,FURIA fe,NAVI Javelins,2,0,True,False,/matches/2357122/furia-fe-vs-navi-javelins-esl-impact-valencia-2022
+6577,2357121,Nigma Galaxy,MIBR fe,2,0,True,False,/matches/2357121/nigma-galaxy-vs-mibr-fe-esl-impact-valencia-2022
+6577,2357120,CLG Red,MIBR fe,0,2,False,True,/matches/2357120/clg-red-vs-mibr-fe-esl-impact-valencia-2022
+6577,2357119,BIG EQUIPA,NAVI Javelins,0,2,False,True,/matches/2357119/big-equipa-vs-navi-javelins-esl-impact-valencia-2022
+6577,2357118,MIBR fe,GODSENT fe,2,1,True,False,/matches/2357118/mibr-fe-vs-godsent-fe-esl-impact-valencia-2022
+6577,2357117,Mindfreak,NAVI Javelins,0,2,False,True,/matches/2357117/mindfreak-vs-navi-javelins-esl-impact-valencia-2022
+6577,2357116,FURIA fe,CLG Red,16,8,False,True,/matches/2357116/furia-fe-vs-clg-red-esl-impact-valencia-2022
+6577,2357115,Nigma Galaxy,BIG EQUIPA,16,6,False,True,/matches/2357115/nigma-galaxy-vs-big-equipa-esl-impact-valencia-2022
+6577,2356967,GODSENT fe,CLG Red,11,16,False,True,/matches/2356967/godsent-fe-vs-clg-red-esl-impact-valencia-2022
+6577,2356966,FURIA fe,MIBR fe,16,11,True,False,/matches/2356966/furia-fe-vs-mibr-fe-esl-impact-valencia-2022
+6577,2356965,NAVI Javelins,BIG EQUIPA,13,16,False,True,/matches/2356965/navi-javelins-vs-big-equipa-esl-impact-valencia-2022
+6577,2356964,Nigma Galaxy,Mindfreak,16,6,False,True,/matches/2356964/nigma-galaxy-vs-mindfreak-esl-impact-valencia-2022
+6503,2357031,00NATION,Imperial,2,0,True,False,/matches/2357031/00nation-vs-imperial-iem-cologne-2022-play-in
+6503,2357032,MOUZ,TYLOO,2,0,True,False,/matches/2357032/mouz-vs-tyloo-iem-cologne-2022-play-in
+6503,2357030,BIG,Astralis,1,2,False,True,/matches/2357030/big-vs-astralis-iem-cologne-2022-play-in
+6503,2357029,Sprout,Vitality,1,2,False,True,/matches/2357029/sprout-vs-vitality-iem-cologne-2022-play-in
+6503,2357027,ORDER,Imperial,1,2,False,True,/matches/2357027/order-vs-imperial-iem-cologne-2022-play-in
+6503,2357028,MIBR,TYLOO,1,2,False,True,/matches/2357028/mibr-vs-tyloo-iem-cologne-2022-play-in
+6503,2357024,Movistar Riders,Vitality,2,0,True,False,/matches/2357024/movistar-riders-vs-vitality-iem-cologne-2022-play-in
+6503,2357026,Complexity,Astralis,0,2,False,True,/matches/2357026/complexity-vs-astralis-iem-cologne-2022-play-in
+6503,2357023,BIG,Outsiders,0,2,False,True,/matches/2357023/big-vs-outsiders-iem-cologne-2022-play-in
+6503,2357022,Spirit,00NATION,2,1,True,False,/matches/2357022/spirit-vs-00nation-iem-cologne-2022-play-in
+6503,2357025,Sprout,paiN,2,1,True,False,/matches/2357025/sprout-vs-pain-iem-cologne-2022-play-in
+6503,2357021,HEROIC,MOUZ,2,1,True,False,/matches/2357021/heroic-vs-mouz-iem-cologne-2022-play-in
+6503,2357019,TYLOO,Vitality,9,16,True,False,/matches/2357019/tyloo-vs-vitality-iem-cologne-2022-play-in
+6503,2357018,MIBR,Movistar Riders,13,16,False,True,/matches/2357018/mibr-vs-movistar-riders-iem-cologne-2022-play-in
+6503,2357016,Outsiders,Imperial,16,6,False,True,/matches/2357016/outsiders-vs-imperial-iem-cologne-2022-play-in
+6503,2357020,00NATION,Astralis,16,6,False,True,/matches/2357020/00nation-vs-astralis-iem-cologne-2022-play-in
+6503,2357017,BIG,ORDER,16,7,False,True,/matches/2357017/big-vs-order-iem-cologne-2022-play-in
+6503,2357014,MOUZ,paiN,19,16,True,False,/matches/2357014/mouz-vs-pain-iem-cologne-2022-play-in
+6503,2357013,Spirit,Complexity,16,11,True,False,/matches/2357013/spirit-vs-complexity-iem-cologne-2022-play-in
+6503,2357015,HEROIC,Sprout,16,3,False,True,/matches/2357015/heroic-vs-sprout-iem-cologne-2022-play-in
+6384,2356128,FORZE,Imperial,0,2,False,True,/matches/2356128/forze-vs-imperial-pgl-major-antwerp-2022-challengers-stage
+6384,2356129,Bad News Eagles,MIBR,2,1,True,False,/matches/2356129/bad-news-eagles-vs-mibr-pgl-major-antwerp-2022-challengers-stage
+6384,2356127,Astralis,Liquid,0,2,False,True,/matches/2356127/astralis-vs-liquid-pgl-major-antwerp-2022-challengers-stage
+6384,2356126,MIBR,Eternal Fire,2,0,True,False,/matches/2356126/mibr-vs-eternal-fire-pgl-major-antwerp-2022-challengers-stage
+6384,2356123,ENCE,Bad News Eagles,2,0,True,False,/matches/2356123/ence-vs-bad-news-eagles-pgl-major-antwerp-2022-challengers-stage
+6384,2356125,Complexity,Liquid,0,2,False,True,/matches/2356125/complexity-vs-liquid-pgl-major-antwerp-2022-challengers-stage
+6384,2356122,FORZE,Outsiders,1,2,False,True,/matches/2356122/forze-vs-outsiders-pgl-major-antwerp-2022-challengers-stage
+6384,2356124,Imperial,IHC,2,1,True,False,/matches/2356124/imperial-vs-ihc-pgl-major-antwerp-2022-challengers-stage
+6384,2356121,Astralis,Spirit,0,2,False,True,/matches/2356121/astralis-vs-spirit-pgl-major-antwerp-2022-challengers-stage
+6384,2356118,ENCE,G2,1,2,False,True,/matches/2356118/ence-vs-g2-pgl-major-antwerp-2022-challengers-stage
+6384,2356120,Liquid,9z,2,0,True,False,/matches/2356120/liquid-vs-9z-pgl-major-antwerp-2022-challengers-stage
+6384,2356117,Vitality,FORZE,2,1,True,False,/matches/2356117/vitality-vs-forze-pgl-major-antwerp-2022-challengers-stage
+6384,2356119,Renegades,IHC,0,2,False,True,/matches/2356119/renegades-vs-ihc-pgl-major-antwerp-2022-challengers-stage
+6384,2356114,Astralis,MIBR,16,13,True,False,/matches/2356114/astralis-vs-mibr-pgl-major-antwerp-2022-challengers-stage
+6384,2356116,Complexity,Outsiders,9,16,True,False,/matches/2356116/complexity-vs-outsiders-pgl-major-antwerp-2022-challengers-stage
+6384,2356113,Spirit,Eternal Fire,16,11,True,False,/matches/2356113/spirit-vs-eternal-fire-pgl-major-antwerp-2022-challengers-stage
+6384,2356115,Bad News Eagles,Imperial,16,12,True,False,/matches/2356115/bad-news-eagles-vs-imperial-pgl-major-antwerp-2022-challengers-stage
+6384,2356112,MIBR,9z,16,14,True,False,/matches/2356112/mibr-vs-9z-pgl-major-antwerp-2022-challengers-stage
+6384,2356108,Astralis,Vitality,8,16,True,False,/matches/2356108/astralis-vs-vitality-pgl-major-antwerp-2022-challengers-stage
+6384,2356107,ENCE,Outsiders,16,6,False,True,/matches/2356107/ence-vs-outsiders-pgl-major-antwerp-2022-challengers-stage
+6384,2356111,Imperial,Liquid,16,10,True,False,/matches/2356111/imperial-vs-liquid-pgl-major-antwerp-2022-challengers-stage
+6384,2356106,FORZE,Bad News Eagles,16,7,False,True,/matches/2356106/forze-vs-bad-news-eagles-pgl-major-antwerp-2022-challengers-stage
+6384,2356110,Complexity,IHC,16,13,True,False,/matches/2356110/complexity-vs-ihc-pgl-major-antwerp-2022-challengers-stage
+6384,2356105,G2,Spirit,19,17,True,False,/matches/2356105/g2-vs-spirit-pgl-major-antwerp-2022-challengers-stage
+6384,2356109,Eternal Fire,Renegades,16,2,False,True,/matches/2356109/eternal-fire-vs-renegades-pgl-major-antwerp-2022-challengers-stage
+6384,2356104,ENCE,9z,16,7,False,True,/matches/2356104/ence-vs-9z-pgl-major-antwerp-2022-challengers-stage
+6384,2356100,MIBR,Outsiders,14,16,False,True,/matches/2356100/mibr-vs-outsiders-pgl-major-antwerp-2022-challengers-stage
+6384,2356103,Imperial,Spirit,6,16,True,False,/matches/2356103/imperial-vs-spirit-pgl-major-antwerp-2022-challengers-stage
+6384,2356099,Astralis,IHC,16,2,False,True,/matches/2356099/astralis-vs-ihc-pgl-major-antwerp-2022-challengers-stage
+6384,2356102,FORZE,Renegades,16,9,False,True,/matches/2356102/forze-vs-renegades-pgl-major-antwerp-2022-challengers-stage
+6384,2356098,G2,Liquid,16,6,False,True,/matches/2356098/g2-vs-liquid-pgl-major-antwerp-2022-challengers-stage
+6384,2356101,Bad News Eagles,Eternal Fire,16,14,True,False,/matches/2356101/bad-news-eagles-vs-eternal-fire-pgl-major-antwerp-2022-challengers-stage
+6384,2356097,Vitality,Complexity,16,1,True,False,/matches/2356097/vitality-vs-complexity-pgl-major-antwerp-2022-challengers-stage
+6382,2355825,Astralis,HEET,2,1,True,False,/matches/2355825/astralis-vs-heet-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355826,Ninjas in Pyjamas,ENCE,2,1,True,False,/matches/2355826/ninjas-in-pyjamas-vs-ence-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355823,Anonymo,Spirit,1,2,False,True,/matches/2355823/anonymo-vs-spirit-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355824,SINNERS,Bad News Eagles,1,2,False,True,/matches/2355824/sinners-vs-bad-news-eagles-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355821,Astralis,G2,1,2,False,True,/matches/2355821/astralis-vs-g2-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355822,Spirit,Endpoint,2,0,True,False,/matches/2355822/spirit-vs-endpoint-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355819,Ninjas in Pyjamas,SINNERS,2,0,True,False,/matches/2355819/ninjas-in-pyjamas-vs-sinners-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355820,Bad News Eagles,ASG,2,0,True,False,/matches/2355820/bad-news-eagles-vs-asg-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355817,Anonymo,ENCE,0,2,False,True,/matches/2355817/anonymo-vs-ence-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355818,Entropiq,HEET,0,2,False,True,/matches/2355818/entropiq-vs-heet-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355815,Ninjas in Pyjamas,Copenhagen Flames,0,2,False,True,/matches/2355815/ninjas-in-pyjamas-vs-copenhagen-flames-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355816,Sprout,Endpoint,1,2,False,True,/matches/2355816/sprout-vs-endpoint-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355813,Players,Astralis,2,1,True,False,/matches/2355813/players-vs-astralis-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355814,ASG,Sangal,2,0,True,False,/matches/2355814/asg-vs-sangal-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355812,SINNERS,Spirit,16,6,False,True,/matches/2355812/sinners-vs-spirit-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355811,ENCE,HEET,16,8,False,True,/matches/2355811/ence-vs-heet-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355810,Anonymo,Entropiq,16,14,True,False,/matches/2355810/anonymo-vs-entropiq-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355809,Bad News Eagles,G2,10,16,False,True,/matches/2355809/bad-news-eagles-vs-g2-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355807,Astralis,ENCE,16,11,True,False,/matches/2355807/astralis-vs-ence-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355808,Spirit,ASG,16,6,False,True,/matches/2355808/spirit-vs-asg-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355805,Copenhagen Flames,SINNERS,16,9,False,True,/matches/2355805/copenhagen-flames-vs-sinners-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355806,HEET,Sprout,16,5,False,True,/matches/2355806/heet-vs-sprout-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355803,Ninjas in Pyjamas,Bad News Eagles,16,11,True,False,/matches/2355803/ninjas-in-pyjamas-vs-bad-news-eagles-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355804,Entropiq,Endpoint,16,3,False,True,/matches/2355804/entropiq-vs-endpoint-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355802,G2,Sangal,16,10,True,False,/matches/2355802/g2-vs-sangal-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355801,Players,Anonymo,16,10,True,False,/matches/2355801/players-vs-anonymo-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355800,Spirit,ENCE,11,16,False,True,/matches/2355800/spirit-vs-ence-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355799,Copenhagen Flames,Sprout,16,11,True,False,/matches/2355799/copenhagen-flames-vs-sprout-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355798,Astralis,ASG,16,5,False,True,/matches/2355798/astralis-vs-asg-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355797,Players,Sangal,16,7,False,True,/matches/2355797/players-vs-sangal-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355796,HEET,SINNERS,11,16,False,True,/matches/2355796/heet-vs-sinners-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355795,Ninjas in Pyjamas,Endpoint,16,8,False,True,/matches/2355795/ninjas-in-pyjamas-vs-endpoint-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355794,Entropiq,Bad News Eagles,17,19,False,True,/matches/2355794/entropiq-vs-bad-news-eagles-pgl-major-antwerp-2022-europe-rmr-b
+6382,2355793,G2,Anonymo,16,19,False,True,/matches/2355793/g2-vs-anonymo-pgl-major-antwerp-2022-europe-rmr-b
+6381,2355756,SAW,Outsiders,1,2,False,True,/matches/2355756/saw-vs-outsiders-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355757,FORZE,Natus Vincere,0,2,False,True,/matches/2355757/forze-vs-natus-vincere-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355754,Vitality,MOUZ,2,1,True,False,/matches/2355754/vitality-vs-mouz-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355755,OG,Eternal Fire,0,2,False,True,/matches/2355755/og-vs-eternal-fire-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355753,Outsiders,Dignitas,2,1,True,False,/matches/2355753/outsiders-vs-dignitas-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355752,FaZe,MOUZ,2,0,True,False,/matches/2355752/faze-vs-mouz-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355751,fnatic,Eternal Fire,1,2,False,True,/matches/2355751/fnatic-vs-eternal-fire-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355750,Natus Vincere,Vitality,2,0,True,False,/matches/2355750/natus-vincere-vs-vitality-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355748,SAW,FORZE,1,2,False,True,/matches/2355748/saw-vs-forze-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355749,OG,Unique,2,0,True,False,/matches/2355749/og-vs-unique-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355746,FaZe,BIG,0,2,False,True,/matches/2355746/faze-vs-big-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355747,GamerLegion,Dignitas,0,2,False,True,/matches/2355747/gamerlegion-vs-dignitas-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355744,HEROIC,Natus Vincere,2,1,True,False,/matches/2355744/heroic-vs-natus-vincere-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355745,QUAZAR,Unique,1,2,False,True,/matches/2355745/quazar-vs-unique-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355743,fnatic,SAW,10,16,False,True,/matches/2355743/fnatic-vs-saw-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355742,Outsiders,MOUZ,12,16,False,True,/matches/2355742/outsiders-vs-mouz-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355741,Vitality,Eternal Fire,16,11,True,False,/matches/2355741/vitality-vs-eternal-fire-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355740,OG,FORZE,17,19,False,True,/matches/2355740/og-vs-forze-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355739,SAW,Unique,16,6,False,True,/matches/2355739/saw-vs-unique-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355737,MOUZ,QUAZAR,16,4,False,True,/matches/2355737/mouz-vs-quazar-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355738,Outsiders,BIG,8,16,True,False,/matches/2355738/outsiders-vs-big-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355735,GamerLegion,FORZE,14,16,False,True,/matches/2355735/gamerlegion-vs-forze-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355736,Natus Vincere,OG,16,5,False,True,/matches/2355736/natus-vincere-vs-og-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355733,Eternal Fire,Dignitas,22,20,True,False,/matches/2355733/eternal-fire-vs-dignitas-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355734,HEROIC,fnatic,16,9,False,True,/matches/2355734/heroic-vs-fnatic-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355732,Vitality,FaZe,14,16,False,True,/matches/2355732/vitality-vs-faze-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355727,MOUZ,OG,12,16,False,True,/matches/2355727/mouz-vs-og-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355728,BIG,SAW,16,5,False,True,/matches/2355728/big-vs-saw-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355725,Vitality,Dignitas,16,6,False,True,/matches/2355725/vitality-vs-dignitas-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355726,GamerLegion,fnatic,5,16,True,False,/matches/2355726/gamerlegion-vs-fnatic-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355723,FaZe,Eternal Fire,16,4,False,True,/matches/2355723/faze-vs-eternal-fire-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355724,HEROIC,FORZE,16,9,False,True,/matches/2355724/heroic-vs-forze-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355721,Natus Vincere,QUAZAR,16,12,True,False,/matches/2355721/natus-vincere-vs-quazar-pgl-major-antwerp-2022-europe-rmr-a
+6381,2355722,Outsiders,Unique,16,2,False,True,/matches/2355722/outsiders-vs-unique-pgl-major-antwerp-2022-europe-rmr-a
+6372,2356169,FaZe,Natus Vincere,2,0,True,False,/matches/2356169/faze-vs-natus-vincere-pgl-major-antwerp-2022
+6372,2356168,ENCE,Natus Vincere,0,2,False,True,/matches/2356168/ence-vs-natus-vincere-pgl-major-antwerp-2022
+6372,2356167,FaZe,Spirit,2,0,True,False,/matches/2356167/faze-vs-spirit-pgl-major-antwerp-2022
+6372,2356166,Natus Vincere,HEROIC,2,1,True,False,/matches/2356166/natus-vincere-vs-heroic-pgl-major-antwerp-2022
+6372,2356165,ENCE,Copenhagen Flames,2,0,True,False,/matches/2356165/ence-vs-copenhagen-flames-pgl-major-antwerp-2022
+6372,2356164,Spirit,FURIA,2,0,True,False,/matches/2356164/spirit-vs-furia-pgl-major-antwerp-2022
+6372,2356163,Ninjas in Pyjamas,FaZe,1,2,False,True,/matches/2356163/ninjas-in-pyjamas-vs-faze-pgl-major-antwerp-2022
+6372,2356162,Copenhagen Flames,Imperial,2,0,True,False,/matches/2356162/copenhagen-flames-vs-imperial-pgl-major-antwerp-2022
+6372,2356161,G2,FURIA,1,2,False,True,/matches/2356161/g2-vs-furia-pgl-major-antwerp-2022
+6372,2356160,HEROIC,Vitality,2,1,True,False,/matches/2356160/heroic-vs-vitality-pgl-major-antwerp-2022
+6372,2356159,Cloud9,Imperial,1,2,False,True,/matches/2356159/cloud9-vs-imperial-pgl-major-antwerp-2022
+6372,2356156,ENCE,HEROIC,2,1,True,False,/matches/2356156/ence-vs-heroic-pgl-major-antwerp-2022
+6372,2356158,G2,Outsiders,2,1,True,False,/matches/2356158/g2-vs-outsiders-pgl-major-antwerp-2022
+6372,2356155,Ninjas in Pyjamas,FURIA,2,0,True,False,/matches/2356155/ninjas-in-pyjamas-vs-furia-pgl-major-antwerp-2022
+6372,2356157,BIG,Vitality,1,2,False,True,/matches/2356157/big-vs-vitality-pgl-major-antwerp-2022
+6372,2356154,Copenhagen Flames,FaZe,1,2,False,True,/matches/2356154/copenhagen-flames-vs-faze-pgl-major-antwerp-2022
+6372,2356151,Natus Vincere,Ninjas in Pyjamas,2,1,True,False,/matches/2356151/natus-vincere-vs-ninjas-in-pyjamas-pgl-major-antwerp-2022
+6372,2356153,Bad News Eagles,Imperial,0,2,False,True,/matches/2356153/bad-news-eagles-vs-imperial-pgl-major-antwerp-2022
+6372,2356150,Spirit,Copenhagen Flames,2,1,True,False,/matches/2356150/spirit-vs-copenhagen-flames-pgl-major-antwerp-2022
+6372,2356152,Vitality,Liquid,2,0,True,False,/matches/2356152/vitality-vs-liquid-pgl-major-antwerp-2022
+6372,2356147,Cloud9,FaZe,8,16,True,False,/matches/2356147/cloud9-vs-faze-pgl-major-antwerp-2022
+6372,2356149,BIG,FURIA,10,16,False,True,/matches/2356149/big-vs-furia-pgl-major-antwerp-2022
+6372,2356146,HEROIC,G2,19,17,True,False,/matches/2356146/heroic-vs-g2-pgl-major-antwerp-2022
+6372,2356148,ENCE,Outsiders,16,8,False,True,/matches/2356148/ence-vs-outsiders-pgl-major-antwerp-2022
+6372,2356141,Cloud9,Ninjas in Pyjamas,14,16,False,True,/matches/2356141/cloud9-vs-ninjas-in-pyjamas-pgl-major-antwerp-2022
+6372,2356145,G2,Imperial,16,12,True,False,/matches/2356145/g2-vs-imperial-pgl-major-antwerp-2022
+6372,2356140,BIG,Natus Vincere,8,16,True,False,/matches/2356140/big-vs-natus-vincere-pgl-major-antwerp-2022
+6372,2356144,FURIA,Liquid,16,9,False,True,/matches/2356144/furia-vs-liquid-pgl-major-antwerp-2022
+6372,2356139,Copenhagen Flames,ENCE,16,8,False,True,/matches/2356139/copenhagen-flames-vs-ence-pgl-major-antwerp-2022
+6372,2356143,FaZe,Bad News Eagles,16,4,False,True,/matches/2356143/faze-vs-bad-news-eagles-pgl-major-antwerp-2022
+6372,2356138,HEROIC,Spirit,12,16,False,True,/matches/2356138/heroic-vs-spirit-pgl-major-antwerp-2022
+6372,2356142,Vitality,Outsiders,8,16,True,False,/matches/2356142/vitality-vs-outsiders-pgl-major-antwerp-2022
+6372,2356133,Natus Vincere,G2,19,17,True,False,/matches/2356133/natus-vincere-vs-g2-pgl-major-antwerp-2022
+6372,2356137,BIG,Imperial,16,11,True,False,/matches/2356137/big-vs-imperial-pgl-major-antwerp-2022
+6372,2356136,FURIA,Spirit,12,16,False,True,/matches/2356136/furia-vs-spirit-pgl-major-antwerp-2022
+6372,2356132,FaZe,ENCE,8,16,True,False,/matches/2356132/faze-vs-ence-pgl-major-antwerp-2022
+6372,2356135,Cloud9,Outsiders,16,12,True,False,/matches/2356135/cloud9-vs-outsiders-pgl-major-antwerp-2022
+6372,2356131,Ninjas in Pyjamas,Vitality,16,4,False,True,/matches/2356131/ninjas-in-pyjamas-vs-vitality-pgl-major-antwerp-2022
+6372,2356130,HEROIC,Liquid,16,11,True,False,/matches/2356130/heroic-vs-liquid-pgl-major-antwerp-2022
+6372,2356134,Copenhagen Flames,Bad News Eagles,16,14,True,False,/matches/2356134/copenhagen-flames-vs-bad-news-eagles-pgl-major-antwerp-2022
+6349,2360646,Liquid,G2,0,2,False,True,/matches/2360646/liquid-vs-g2-blast-premier-world-final-2022
+6349,2360645,FaZe,G2,0,2,False,True,/matches/2360645/faze-vs-g2-blast-premier-world-final-2022
+6349,2360644,OG,Liquid,1,2,False,True,/matches/2360644/og-vs-liquid-blast-premier-world-final-2022
+6349,2360643,G2,Vitality,2,1,True,False,/matches/2360643/g2-vs-vitality-blast-premier-world-final-2022
+6349,2360642,Liquid,Natus Vincere,2,1,True,False,/matches/2360642/liquid-vs-natus-vincere-blast-premier-world-final-2022
+6349,2360641,OG,Vitality,2,0,True,False,/matches/2360641/og-vs-vitality-blast-premier-world-final-2022
+6349,2360640,HEROIC,Natus Vincere,1,2,False,True,/matches/2360640/heroic-vs-natus-vincere-blast-premier-world-final-2022
+6349,2360639,Liquid,FaZe,1,2,False,True,/matches/2360639/liquid-vs-faze-blast-premier-world-final-2022
+6349,2360638,Outsiders,G2,0,2,False,True,/matches/2360638/outsiders-vs-g2-blast-premier-world-final-2022
+6349,2360637,Natus Vincere,Vitality,0,2,False,True,/matches/2360637/natus-vincere-vs-vitality-blast-premier-world-final-2022
+6349,2360636,HEROIC,OG,1,2,False,True,/matches/2360636/heroic-vs-og-blast-premier-world-final-2022
+6349,2360635,FaZe,G2,2,1,True,False,/matches/2360635/faze-vs-g2-blast-premier-world-final-2022
+6349,2360634,Outsiders,Liquid,1,2,False,True,/matches/2360634/outsiders-vs-liquid-blast-premier-world-final-2022
+6348,2360059,HEROIC,FaZe,2,1,True,False,/matches/2360059/heroic-vs-faze-blast-premier-fall-final-2022
+6348,2360058,FaZe,Ninjas in Pyjamas,2,1,True,False,/matches/2360058/faze-vs-ninjas-in-pyjamas-blast-premier-fall-final-2022
+6348,2360057,Liquid,HEROIC,1,2,False,True,/matches/2360057/liquid-vs-heroic-blast-premier-fall-final-2022
+6348,2360056,Ninjas in Pyjamas,Natus Vincere,2,1,True,False,/matches/2360056/ninjas-in-pyjamas-vs-natus-vincere-blast-premier-fall-final-2022
+6348,2360055,HEROIC,G2,2,1,True,False,/matches/2360055/heroic-vs-g2-blast-premier-fall-final-2022
+6348,2360054,Natus Vincere,Liquid,1,2,False,True,/matches/2360054/natus-vincere-vs-liquid-blast-premier-fall-final-2022
+6348,2360053,Fluxo,G2,0,2,False,True,/matches/2360053/fluxo-vs-g2-blast-premier-fall-final-2022
+6348,2360052,FaZe,HEROIC,2,0,True,False,/matches/2360052/faze-vs-heroic-blast-premier-fall-final-2022
+6348,2360051,OG,Ninjas in Pyjamas,0,2,False,True,/matches/2360051/og-vs-ninjas-in-pyjamas-blast-premier-fall-final-2022
+6348,2360050,Liquid,G2,2,0,True,False,/matches/2360050/liquid-vs-g2-blast-premier-fall-final-2022
+6348,2360049,Natus Vincere,Fluxo,2,0,True,False,/matches/2360049/natus-vincere-vs-fluxo-blast-premier-fall-final-2022
+6348,2360048,HEROIC,Ninjas in Pyjamas,2,1,True,False,/matches/2360048/heroic-vs-ninjas-in-pyjamas-blast-premier-fall-final-2022
+6348,2360047,FaZe,OG,2,0,True,False,/matches/2360047/faze-vs-og-blast-premier-fall-final-2022
+6346,2357669,G2,Vitality,2,1,True,False,/matches/2357669/g2-vs-vitality-blast-premier-fall-groups-2022
+6346,2357668,Ninjas in Pyjamas,HEROIC,2,1,True,False,/matches/2357668/ninjas-in-pyjamas-vs-heroic-blast-premier-fall-groups-2022
+6346,2357667,FaZe,Astralis,2,1,True,False,/matches/2357667/faze-vs-astralis-blast-premier-fall-groups-2022
+6346,2357665,Natus Vincere,Vitality,2,0,True,False,/matches/2357665/natus-vincere-vs-vitality-blast-premier-fall-groups-2022
+6346,2357666,HEROIC,Liquid,0,2,False,True,/matches/2357666/heroic-vs-liquid-blast-premier-fall-groups-2022
+6346,2357664,Astralis,OG,0,2,False,True,/matches/2357664/astralis-vs-og-blast-premier-fall-groups-2022
+6346,2357662,Vitality,G2,2,1,True,False,/matches/2357662/vitality-vs-g2-blast-premier-fall-groups-2022
+6346,2357663,Liquid,Ninjas in Pyjamas,2,0,True,False,/matches/2357663/liquid-vs-ninjas-in-pyjamas-blast-premier-fall-groups-2022
+6346,2357661,FaZe,OG,1,2,False,True,/matches/2357661/faze-vs-og-blast-premier-fall-groups-2022
+6346,2357659,G2,BIG,2,0,True,False,/matches/2357659/g2-vs-big-blast-premier-fall-groups-2022
+6346,2357660,Ninjas in Pyjamas,Evil Geniuses,2,1,True,False,/matches/2357660/ninjas-in-pyjamas-vs-evil-geniuses-blast-premier-fall-groups-2022
+6346,2357658,OG,Complexity,2,0,True,False,/matches/2357658/og-vs-complexity-blast-premier-fall-groups-2022
+6346,2357657,FaZe,HEROIC,10,16,False,True,/matches/2357657/faze-vs-heroic-blast-premier-fall-groups-2022
+6346,2357654,HEROIC,BIG,16,14,True,False,/matches/2357654/heroic-vs-big-blast-premier-fall-groups-2022
+6346,2357651,Evil Geniuses,BIG,6,16,True,False,/matches/2357651/evil-geniuses-vs-big-blast-premier-fall-groups-2022
+6346,2357648,FaZe,HEROIC,16,10,True,False,/matches/2357648/faze-vs-heroic-blast-premier-fall-groups-2022
+6346,2357645,HEROIC,BIG,16,13,True,False,/matches/2357645/heroic-vs-big-blast-premier-fall-groups-2022
+6346,2357642,FaZe,Evil Geniuses,16,8,False,True,/matches/2357642/faze-vs-evil-geniuses-blast-premier-fall-groups-2022
+6346,2357656,Liquid,Natus Vincere,4,16,True,False,/matches/2357656/liquid-vs-natus-vincere-blast-premier-fall-groups-2022
+6346,2357653,Complexity,Natus Vincere,3,16,True,False,/matches/2357653/complexity-vs-natus-vincere-blast-premier-fall-groups-2022
+6346,2357650,Natus Vincere,G2,16,14,True,False,/matches/2357650/natus-vincere-vs-g2-blast-premier-fall-groups-2022
+6346,2357647,Complexity,Liquid,14,16,False,True,/matches/2357647/complexity-vs-liquid-blast-premier-fall-groups-2022
+6346,2357644,G2,Liquid,12,16,False,True,/matches/2357644/g2-vs-liquid-blast-premier-fall-groups-2022
+6346,2357641,Natus Vincere,Complexity,9,16,True,False,/matches/2357641/natus-vincere-vs-complexity-blast-premier-fall-groups-2022
+6346,2357655,Vitality,Astralis,17,19,False,True,/matches/2357655/vitality-vs-astralis-blast-premier-fall-groups-2022
+6346,2357652,Ninjas in Pyjamas,Astralis,9,16,True,False,/matches/2357652/ninjas-in-pyjamas-vs-astralis-blast-premier-fall-groups-2022
+6346,2357649,OG,Astralis,9,16,True,False,/matches/2357649/og-vs-astralis-blast-premier-fall-groups-2022
+6346,2357646,Vitality,Ninjas in Pyjamas,16,12,True,False,/matches/2357646/vitality-vs-ninjas-in-pyjamas-blast-premier-fall-groups-2022
+6346,2357643,Ninjas in Pyjamas,Astralis,16,10,True,False,/matches/2357643/ninjas-in-pyjamas-vs-astralis-blast-premier-fall-groups-2022
+6346,2357640,Vitality,OG,16,11,True,False,/matches/2357640/vitality-vs-og-blast-premier-fall-groups-2022
+6345,2356644,Natus Vincere,Vitality,2,0,True,False,/matches/2356644/natus-vincere-vs-vitality-blast-premier-spring-final-2022
+6345,2356642,G2,Vitality,1,2,False,True,/matches/2356642/g2-vs-vitality-blast-premier-spring-final-2022
+6345,2356643,OG,Natus Vincere,1,2,False,True,/matches/2356643/og-vs-natus-vincere-blast-premier-spring-final-2022
+6345,2356640,Vitality,ENCE,2,0,True,False,/matches/2356640/vitality-vs-ence-blast-premier-spring-final-2022
+6345,2356641,FaZe,Natus Vincere,0,2,False,True,/matches/2356641/faze-vs-natus-vincere-blast-premier-spring-final-2022
+6345,2356639,OG,ENCE,2,0,True,False,/matches/2356639/og-vs-ence-blast-premier-spring-final-2022
+6345,2356638,Natus Vincere,BIG,2,0,True,False,/matches/2356638/natus-vincere-vs-big-blast-premier-spring-final-2022
+6345,2356637,FaZe,G2,1,2,False,True,/matches/2356637/faze-vs-g2-blast-premier-spring-final-2022
+6345,2356636,paiN,Vitality,1,2,False,True,/matches/2356636/pain-vs-vitality-blast-premier-spring-final-2022
+6345,2356635,ENCE,BIG,2,0,True,False,/matches/2356635/ence-vs-big-blast-premier-spring-final-2022
+6345,2356634,Natus Vincere,OG,1,2,False,True,/matches/2356634/natus-vincere-vs-og-blast-premier-spring-final-2022
+6345,2356633,G2,Vitality,2,1,True,False,/matches/2356633/g2-vs-vitality-blast-premier-spring-final-2022
+6345,2356632,FaZe,paiN,2,0,True,False,/matches/2356632/faze-vs-pain-blast-premier-spring-final-2022
+6319,2359555,Outsiders,ENCE,2,0,True,False,/matches/2359555/outsiders-vs-ence-esl-challenger-rotterdam-2022
+6319,2359553,ENCE,Eternal Fire,2,1,True,False,/matches/2359553/ence-vs-eternal-fire-esl-challenger-rotterdam-2022
+6319,2359554,MOUZ,Outsiders,1,2,False,True,/matches/2359554/mouz-vs-outsiders-esl-challenger-rotterdam-2022
+6319,2359552,Movistar Riders,Eternal Fire,0,2,False,True,/matches/2359552/movistar-riders-vs-eternal-fire-esl-challenger-rotterdam-2022
+6319,2359551,Outsiders,Fluxo,2,0,True,False,/matches/2359551/outsiders-vs-fluxo-esl-challenger-rotterdam-2022
+6319,2359550,Nixuh,Eternal Fire,0,2,False,True,/matches/2359550/nixuh-vs-eternal-fire-esl-challenger-rotterdam-2022
+6319,2359549,TeamOne,Fluxo,1,2,False,True,/matches/2359549/teamone-vs-fluxo-esl-challenger-rotterdam-2022
+6319,2359548,MOUZ,Movistar Riders,16,8,False,True,/matches/2359548/mouz-vs-movistar-riders-esl-challenger-rotterdam-2022
+6319,2359547,ENCE,Outsiders,16,14,True,False,/matches/2359547/ence-vs-outsiders-esl-challenger-rotterdam-2022
+6319,2359546,Movistar Riders,Eternal Fire,16,9,False,True,/matches/2359546/movistar-riders-vs-eternal-fire-esl-challenger-rotterdam-2022
+6319,2359545,MOUZ,Nixuh,16,2,False,True,/matches/2359545/mouz-vs-nixuh-esl-challenger-rotterdam-2022
+6319,2359544,Outsiders,Fluxo,22,18,True,False,/matches/2359544/outsiders-vs-fluxo-esl-challenger-rotterdam-2022
+6319,2359543,ENCE,TeamOne,16,5,False,True,/matches/2359543/ence-vs-teamone-esl-challenger-rotterdam-2022
+6318,2358348,Imperial,paiN,1,2,False,True,/matches/2358348/imperial-vs-pain-esl-challenger-melbourne-2022
+6318,2358347,paiN,Wings Up,2,0,True,False,/matches/2358347/pain-vs-wings-up-esl-challenger-melbourne-2022
+6318,2358346,Entropiq,Imperial,0,2,False,True,/matches/2358346/entropiq-vs-imperial-esl-challenger-melbourne-2022
+6318,2358345,Imperial,Grayhound,2,0,True,False,/matches/2358345/imperial-vs-grayhound-esl-challenger-melbourne-2022
+6318,2358344,OG,Wings Up,0,2,False,True,/matches/2358344/og-vs-wings-up-esl-challenger-melbourne-2022
+6318,2358343,VERTEX,Grayhound,0,2,False,True,/matches/2358343/vertex-vs-grayhound-esl-challenger-melbourne-2022
+6318,2358342,Wings Up,EG White,2,0,True,False,/matches/2358342/wings-up-vs-eg-white-esl-challenger-melbourne-2022
+6318,2358341,Imperial,paiN,5,16,True,False,/matches/2358341/imperial-vs-pain-esl-challenger-melbourne-2022
+6318,2358340,OG,Entropiq,13,16,False,True,/matches/2358340/og-vs-entropiq-esl-challenger-melbourne-2022
+6318,2358339,paiN,Grayhound,16,12,True,False,/matches/2358339/pain-vs-grayhound-esl-challenger-melbourne-2022
+6318,2358338,Imperial,VERTEX,16,13,True,False,/matches/2358338/imperial-vs-vertex-esl-challenger-melbourne-2022
+6318,2358337,Entropiq,EG White,16,4,False,True,/matches/2358337/entropiq-vs-eg-white-esl-challenger-melbourne-2022
+6318,2358336,OG,Wings Up,16,13,True,False,/matches/2358336/og-vs-wings-up-esl-challenger-melbourne-2022
+6317,2357167,Outsiders,Movistar Riders,1,2,False,True,/matches/2357167/outsiders-vs-movistar-riders-esl-challenger-valencia-2022
+6317,2357166,Movistar Riders,Sprout,2,0,True,False,/matches/2357166/movistar-riders-vs-sprout-esl-challenger-valencia-2022
+6317,2357165,Outsiders,Rare Atom,2,0,True,False,/matches/2357165/outsiders-vs-rare-atom-esl-challenger-valencia-2022
+6317,2357164,Sprout,00NATION,2,0,True,False,/matches/2357164/sprout-vs-00nation-esl-challenger-valencia-2022
+6317,2357163,MIBR,Rare Atom,0,2,False,True,/matches/2357163/mibr-vs-rare-atom-esl-challenger-valencia-2022
+6317,2357162,00NATION,FURIA,2,0,True,False,/matches/2357162/00nation-vs-furia-esl-challenger-valencia-2022
+6317,2357161,Rare Atom,HUMMER,2,1,True,False,/matches/2357161/rare-atom-vs-hummer-esl-challenger-valencia-2022
+6317,2357160,Outsiders,Sprout,16,8,False,True,/matches/2357160/outsiders-vs-sprout-esl-challenger-valencia-2022
+6317,2357159,MIBR,Movistar Riders,3,16,True,False,/matches/2357159/mibr-vs-movistar-riders-esl-challenger-valencia-2022
+6317,2357158,FURIA,Sprout,10,16,False,True,/matches/2357158/furia-vs-sprout-esl-challenger-valencia-2022
+6317,2357157,00NATION,Outsiders,11,16,False,True,/matches/2357157/00nation-vs-outsiders-esl-challenger-valencia-2022
+6317,2357156,HUMMER,Movistar Riders,0,16,False,True,/matches/2357156/hummer-vs-movistar-riders-esl-challenger-valencia-2022
+6317,2357155,MIBR,Rare Atom,16,12,True,False,/matches/2357155/mibr-vs-rare-atom-esl-challenger-valencia-2022
+6219,2354349,MOUZ,Entropiq,2,0,True,False,/matches/2354349/mouz-vs-entropiq-iem-katowice-2022-play-in
+6219,2354350,Ninjas in Pyjamas,Movistar Riders,2,0,True,False,/matches/2354350/ninjas-in-pyjamas-vs-movistar-riders-iem-katowice-2022-play-in
+6219,2354347,fnatic,BIG,2,1,True,False,/matches/2354347/fnatic-vs-big-iem-katowice-2022-play-in
+6219,2354348,ENCE,GODSENT,2,1,True,False,/matches/2354348/ence-vs-godsent-iem-katowice-2022-play-in
+6219,2354346,MIBR,Movistar Riders,0,2,False,True,/matches/2354346/mibr-vs-movistar-riders-iem-katowice-2022-play-in
+6219,2354345,Entropiq,Renegades,2,0,True,False,/matches/2354345/entropiq-vs-renegades-iem-katowice-2022-play-in
+6219,2354344,GODSENT,Sprout,2,0,True,False,/matches/2354344/godsent-vs-sprout-iem-katowice-2022-play-in
+6219,2354341,ENCE,OG,0,2,False,True,/matches/2354341/ence-vs-og-iem-katowice-2022-play-in
+6219,2354342,Astralis,BIG,2,1,True,False,/matches/2354342/astralis-vs-big-iem-katowice-2022-play-in
+6219,2354340,MOUZ,FaZe,1,2,False,True,/matches/2354340/mouz-vs-faze-iem-katowice-2022-play-in
+6219,2354343,Wisla Krakow,fnatic,0,2,False,True,/matches/2354343/wisla-krakow-vs-fnatic-iem-katowice-2022-play-in
+6219,2354339,Ninjas in Pyjamas,Copenhagen Flames,0,2,False,True,/matches/2354339/ninjas-in-pyjamas-vs-copenhagen-flames-iem-katowice-2022-play-in
+6219,2354337,BIG,Movistar Riders,16,13,True,False,/matches/2354337/big-vs-movistar-riders-iem-katowice-2022-play-in
+6219,2354338,Astralis,MIBR,16,11,True,False,/matches/2354338/astralis-vs-mibr-iem-katowice-2022-play-in
+6219,2354335,OG,Renegades,19,16,True,False,/matches/2354335/og-vs-renegades-iem-katowice-2022-play-in
+6219,2354336,ENCE,Entropiq,16,9,False,True,/matches/2354336/ence-vs-entropiq-iem-katowice-2022-play-in
+6219,2354334,Sprout,FaZe,12,16,False,True,/matches/2354334/sprout-vs-faze-iem-katowice-2022-play-in
+6219,2354332,Copenhagen Flames,fnatic,16,7,False,True,/matches/2354332/copenhagen-flames-vs-fnatic-iem-katowice-2022-play-in
+6219,2354331,Ninjas in Pyjamas,Wisla Krakow,16,12,True,False,/matches/2354331/ninjas-in-pyjamas-vs-wisla-krakow-iem-katowice-2022-play-in
+6219,2354333,GODSENT,MOUZ,8,16,True,False,/matches/2354333/godsent-vs-mouz-iem-katowice-2022-play-in
+6140,2357152,Natus Vincere,FaZe,2,3,False,True,/matches/2357152/natus-vincere-vs-faze-iem-cologne-2022
+6140,2357151,FaZe,Movistar Riders,2,0,True,False,/matches/2357151/faze-vs-movistar-riders-iem-cologne-2022
+6140,2357150,Natus Vincere,Astralis,2,0,True,False,/matches/2357150/natus-vincere-vs-astralis-iem-cologne-2022
+6140,2357149,Movistar Riders,Liquid,2,1,True,False,/matches/2357149/movistar-riders-vs-liquid-iem-cologne-2022
+6140,2357148,MOUZ,Astralis,1,2,False,True,/matches/2357148/mouz-vs-astralis-iem-cologne-2022
+6140,2357146,Liquid,FURIA,2,0,True,False,/matches/2357146/liquid-vs-furia-iem-cologne-2022
+6140,2357147,Astralis,FaZe,0,2,False,True,/matches/2357147/astralis-vs-faze-iem-cologne-2022
+6140,2357145,Natus Vincere,Movistar Riders,2,1,True,False,/matches/2357145/natus-vincere-vs-movistar-riders-iem-cologne-2022
+6140,2357144,MOUZ,Ninjas in Pyjamas,2,1,True,False,/matches/2357144/mouz-vs-ninjas-in-pyjamas-iem-cologne-2022
+6140,2357143,FURIA,Spirit,2,1,True,False,/matches/2357143/furia-vs-spirit-iem-cologne-2022
+6140,2357142,Liquid,Cloud9,2,0,True,False,/matches/2357142/liquid-vs-cloud9-iem-cologne-2022
+6140,2357141,Ninjas in Pyjamas,G2,2,1,True,False,/matches/2357141/ninjas-in-pyjamas-vs-g2-iem-cologne-2022
+6140,2357140,MOUZ,Vitality,2,1,True,False,/matches/2357140/mouz-vs-vitality-iem-cologne-2022
+6140,2357138,Spirit,FaZe,0,2,False,True,/matches/2357138/spirit-vs-faze-iem-cologne-2022
+6140,2357139,Cloud9,Astralis,0,2,False,True,/matches/2357139/cloud9-vs-astralis-iem-cologne-2022
+6140,2357136,Liquid,00NATION,2,1,True,False,/matches/2357136/liquid-vs-00nation-iem-cologne-2022
+6140,2357137,Outsiders,FURIA,0,2,False,True,/matches/2357137/outsiders-vs-furia-iem-cologne-2022
+6140,2357134,Movistar Riders,Vitality,2,1,True,False,/matches/2357134/movistar-riders-vs-vitality-iem-cologne-2022
+6140,2357135,G2,ENCE,2,0,True,False,/matches/2357135/g2-vs-ence-iem-cologne-2022
+6140,2357133,HEROIC,MOUZ,0,2,False,True,/matches/2357133/heroic-vs-mouz-iem-cologne-2022
+6140,2357132,Ninjas in Pyjamas,Natus Vincere,0,2,False,True,/matches/2357132/ninjas-in-pyjamas-vs-natus-vincere-iem-cologne-2022
+6140,2357130,FaZe,00NATION,2,0,True,False,/matches/2357130/faze-vs-00nation-iem-cologne-2022
+6140,2357131,FURIA,Astralis,0,2,False,True,/matches/2357131/furia-vs-astralis-iem-cologne-2022
+6140,2357129,Liquid,Spirit,1,2,False,True,/matches/2357129/liquid-vs-spirit-iem-cologne-2022
+6140,2357128,Cloud9,Outsiders,2,0,True,False,/matches/2357128/cloud9-vs-outsiders-iem-cologne-2022
+6140,2357126,Natus Vincere,MOUZ,2,1,True,False,/matches/2357126/natus-vincere-vs-mouz-iem-cologne-2022
+6140,2357127,ENCE,Vitality,1,2,False,True,/matches/2357127/ence-vs-vitality-iem-cologne-2022
+6140,2357125,Ninjas in Pyjamas,HEROIC,2,0,True,False,/matches/2357125/ninjas-in-pyjamas-vs-heroic-iem-cologne-2022
+6140,2357124,G2,Movistar Riders,0,2,False,True,/matches/2357124/g2-vs-movistar-riders-iem-cologne-2022
+6138,2356303,ENCE,Cloud9,0,3,False,True,/matches/2356303/ence-vs-cloud9-iem-dallas-2022
+6138,2356302,BIG,Cloud9,1,2,False,True,/matches/2356302/big-vs-cloud9-iem-dallas-2022
+6138,2356301,ENCE,FURIA,2,0,True,False,/matches/2356301/ence-vs-furia-iem-dallas-2022
+6138,2356300,FaZe,Cloud9,1,2,False,True,/matches/2356300/faze-vs-cloud9-iem-dallas-2022
+6138,2356299,G2,FURIA,1,2,False,True,/matches/2356299/g2-vs-furia-iem-dallas-2022
+6138,2356297,FURIA,BIG,1,2,False,True,/matches/2356297/furia-vs-big-iem-dallas-2022
+6138,2356298,Liquid,Cloud9,0,2,False,True,/matches/2356298/liquid-vs-cloud9-iem-dallas-2022
+6138,2356296,ENCE,FaZe,2,1,True,False,/matches/2356296/ence-vs-faze-iem-dallas-2022
+6138,2356295,Vitality,G2,0,2,False,True,/matches/2356295/vitality-vs-g2-iem-dallas-2022
+6138,2356293,Ninjas in Pyjamas,Cloud9,0,2,False,True,/matches/2356293/ninjas-in-pyjamas-vs-cloud9-iem-dallas-2022
+6138,2356294,Liquid,MIBR,2,0,True,False,/matches/2356294/liquid-vs-mibr-iem-dallas-2022
+6138,2356292,G2,Astralis,2,1,True,False,/matches/2356292/g2-vs-astralis-iem-dallas-2022
+6138,2356290,MIBR,BIG,0,2,False,True,/matches/2356290/mibr-vs-big-iem-dallas-2022
+6138,2356291,MOUZ,Vitality,0,2,False,True,/matches/2356291/mouz-vs-vitality-iem-dallas-2022
+6138,2356289,FURIA,Cloud9,2,0,True,False,/matches/2356289/furia-vs-cloud9-iem-dallas-2022
+6138,2356287,Complexity,Ninjas in Pyjamas,0,2,False,True,/matches/2356287/complexity-vs-ninjas-in-pyjamas-iem-dallas-2022
+6138,2356288,Imperial,Liquid,0,2,False,True,/matches/2356288/imperial-vs-liquid-iem-dallas-2022
+6138,2356285,FaZe,Vitality,2,0,True,False,/matches/2356285/faze-vs-vitality-iem-dallas-2022
+6138,2356286,Encore,Astralis,0,2,False,True,/matches/2356286/encore-vs-astralis-iem-dallas-2022
+6138,2356283,G2,ENCE,0,2,False,True,/matches/2356283/g2-vs-ence-iem-dallas-2022
+6138,2356284,Movistar Riders,MOUZ,0,2,False,True,/matches/2356284/movistar-riders-vs-mouz-iem-dallas-2022
+6138,2356281,Ninjas in Pyjamas,BIG,10,16,False,True,/matches/2356281/ninjas-in-pyjamas-vs-big-iem-dallas-2022
+6138,2356282,MIBR,Complexity,16,4,False,True,/matches/2356282/mibr-vs-complexity-iem-dallas-2022
+6138,2356280,Liquid,Cloud9,6,16,True,False,/matches/2356280/liquid-vs-cloud9-iem-dallas-2022
+6138,2356279,FURIA,Imperial,16,9,False,True,/matches/2356279/furia-vs-imperial-iem-dallas-2022
+6138,2356278,Astralis,Vitality,12,16,False,True,/matches/2356278/astralis-vs-vitality-iem-dallas-2022
+6138,2356277,FaZe,Encore,16,5,False,True,/matches/2356277/faze-vs-encore-iem-dallas-2022
+6138,2356276,MOUZ,ENCE,9,16,True,False,/matches/2356276/mouz-vs-ence-iem-dallas-2022
+6138,2356275,G2,Movistar Riders,16,5,False,True,/matches/2356275/g2-vs-movistar-riders-iem-dallas-2022
+6136,2354404,G2,FaZe,0,3,False,True,/matches/2354404/g2-vs-faze-iem-katowice-2022
+6136,2354403,HEROIC,FaZe,0,2,False,True,/matches/2354403/heroic-vs-faze-iem-katowice-2022
+6136,2354402,Natus Vincere,G2,0,2,False,True,/matches/2354402/natus-vincere-vs-g2-iem-katowice-2022
+6136,2354401,Gambit,FaZe,0,2,False,True,/matches/2354401/gambit-vs-faze-iem-katowice-2022
+6136,2354400,Virtus.pro,G2,0,2,False,True,/matches/2354400/virtuspro-vs-g2-iem-katowice-2022
+6136,2354399,Natus Vincere,FaZe,2,1,True,False,/matches/2354399/natus-vincere-vs-faze-iem-katowice-2022
+6136,2354398,Astralis,G2,1,2,False,True,/matches/2354398/astralis-vs-g2-iem-katowice-2022
+6136,2354396,Gambit,Ninjas in Pyjamas,2,0,True,False,/matches/2354396/gambit-vs-ninjas-in-pyjamas-iem-katowice-2022
+6136,2354397,HEROIC,Virtus.pro,2,0,True,False,/matches/2354397/heroic-vs-virtuspro-iem-katowice-2022
+6136,2354395,G2,FURIA,2,1,True,False,/matches/2354395/g2-vs-furia-iem-katowice-2022
+6136,2354394,Astralis,fnatic,2,1,True,False,/matches/2354394/astralis-vs-fnatic-iem-katowice-2022
+6136,2354392,MOUZ,Ninjas in Pyjamas,0,2,False,True,/matches/2354392/mouz-vs-ninjas-in-pyjamas-iem-katowice-2022
+6136,2354393,Vitality,Gambit,0,2,False,True,/matches/2354393/vitality-vs-gambit-iem-katowice-2022
+6136,2354391,FaZe,fnatic,2,1,True,False,/matches/2354391/faze-vs-fnatic-iem-katowice-2022
+6136,2354390,FURIA,Natus Vincere,0,2,False,True,/matches/2354390/furia-vs-natus-vincere-iem-katowice-2022
+6136,2354388,Astralis,ENCE,2,1,True,False,/matches/2354388/astralis-vs-ence-iem-katowice-2022
+6136,2354389,Liquid,G2,0,2,False,True,/matches/2354389/liquid-vs-g2-iem-katowice-2022
+6136,2354387,Copenhagen Flames,Gambit,1,2,False,True,/matches/2354387/copenhagen-flames-vs-gambit-iem-katowice-2022
+6136,2354386,Virtus.pro,Ninjas in Pyjamas,2,1,True,False,/matches/2354386/virtuspro-vs-ninjas-in-pyjamas-iem-katowice-2022
+6136,2354384,HEROIC,Vitality,2,0,True,False,/matches/2354384/heroic-vs-vitality-iem-katowice-2022
+6136,2354385,OG,MOUZ,0,2,False,True,/matches/2354385/og-vs-mouz-iem-katowice-2022
+6136,2354382,Natus Vincere,ENCE,2,1,True,False,/matches/2354382/natus-vincere-vs-ence-iem-katowice-2022
+6136,2354383,G2,fnatic,1,2,False,True,/matches/2354383/g2-vs-fnatic-iem-katowice-2022
+6136,2354380,Liquid,FaZe,1,2,False,True,/matches/2354380/liquid-vs-faze-iem-katowice-2022
+6136,2354381,FURIA,Astralis,2,0,True,False,/matches/2354381/furia-vs-astralis-iem-katowice-2022
+6136,2354378,Vitality,MOUZ,2,1,True,False,/matches/2354378/vitality-vs-mouz-iem-katowice-2022
+6136,2354379,Gambit,Ninjas in Pyjamas,1,2,False,True,/matches/2354379/gambit-vs-ninjas-in-pyjamas-iem-katowice-2022
+6136,2354377,HEROIC,OG,2,1,True,False,/matches/2354377/heroic-vs-og-iem-katowice-2022
+6136,2354376,Virtus.pro,Copenhagen Flames,2,0,True,False,/matches/2354376/virtuspro-vs-copenhagen-flames-iem-katowice-2022

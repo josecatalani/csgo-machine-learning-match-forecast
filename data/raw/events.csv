@@ -1,19 +1,22 @@
 eventId,eventName,eventDate,eventLink,eventNumTeams,eventPrize,eventLocation,eventType
-7578,PGL CS2 Major Copenhagen 2024 Europe Last Chance Qualifier,Feb 23rd,/events/7578/pgl-cs2-major-copenhagen-2024-europe-last-chance-qualifier,6,Other,"Bucharest, Romania",Intl. LAN
-7577,PGL CS2 Major Copenhagen 2024 Europe RMR B,Feb 19th,/events/7577/pgl-cs2-major-copenhagen-2024-europe-rmr-b,16,Other,"Bucharest, Romania",Intl. LAN
-7551,IEM Katowice 2024 Play-in,Jan 31st,/events/7551/iem-katowice-2024-play-in,16,Other,"Katowice, Poland",Intl. LAN
+7755,BetBoom Dacha Belgrade 2024,May 14th,/events/7755/betboom-dacha-belgrade-2024,8,"$500,000","Belgrade, Serbia",Intl. LAN
+7742,Global Esports Tour Rio 2024,Apr 18th,/events/7742/global-esports-tour-rio-2024,8,"$200,000","Rio de Janeiro, Brazil",Intl. LAN
+7601,ESL Challenger Jönköping 2024,Jun 14th,/events/7601/esl-challenger-jnkping-2024,8,"$100,000","Jönköping, Sweden",Intl. LAN
+7600,ESL Challenger Melbourne 2024,Apr 26th,/events/7600/esl-challenger-melbourne-2024,8,"$100,000","Melbourne, Australia",Intl. LAN
+7499,BetBoom Dacha 2023,Dec 5th,/events/7499/betboom-dacha-2023,8,"$300,000","Dubai, UAE",Intl. LAN
+7485,BLAST Premier Spring Final 2024,Jun 12th,/events/7485/blast-premier-spring-final-2024,8,"$425,000","London, United Kingdom",Intl. LAN
+7438,IEM Dallas 2024,May 27th,/events/7438/iem-dallas-2024,16,"$250,000","Dallas, TX, US",Intl. LAN
 7437,IEM Chengdu 2024,Apr 8th,/events/7437/iem-chengdu-2024,16,"$250,000","Chengdu, China",Intl. LAN
-7435,IEM Katowice 2024,Feb 3rd,/events/7435/iem-katowice-2024,16,"$1,000,000","Katowice, Poland",Intl. LAN
-7261,PGL CS2 Major Copenhagen 2024 Americas RMR,Mar 1st,/events/7261/pgl-cs2-major-copenhagen-2024-americas-rmr,16,Other,"Monterrey, Mexico",Intl. LAN
-7260,PGL CS2 Major Copenhagen 2024 Asia RMR,Feb 26th,/events/7260/pgl-cs2-major-copenhagen-2024-asia-rmr,8,Other,"Shanghai, China",Intl. LAN
-7259,PGL CS2 Major Copenhagen 2024 Europe RMR A,Feb 14th,/events/7259/pgl-cs2-major-copenhagen-2024-europe-rmr-a,16,Other,"Bucharest, Romania",Intl. LAN
-7258,PGL CS2 Major Copenhagen 2024 Opening Stage,Mar 17th,/events/7258/pgl-cs2-major-copenhagen-2024-opening-stage,16,Other,"Copenhagen, Denmark",Major
-7148,PGL CS2 Major Copenhagen 2024,Mar 21st,/events/7148/pgl-cs2-major-copenhagen-2024,16,"$1,250,000","Copenhagen, Denmark",Major
 7082,BLAST.tv Paris Major 2023 Challengers Europe Last Chance Qualifier,Apr 14th,/events/7082/blasttv-paris-major-2023-challengers-europe-last-chance-qualifier,6,Other,"Copenhagen, Denmark",Intl. LAN
 6980,BLAST.tv Paris Major 2023 Asia RMR,Apr 6th,/events/6980/blasttv-paris-major-2023-asia-rmr,8,Other,"Ulaanbaatar, Mongolia",Intl. LAN
 6979,BLAST.tv Paris Major 2023 Americas RMR,Apr 6th,/events/6979/blasttv-paris-major-2023-americas-rmr,16,Other,"Monterrey, Mexico",Intl. LAN
 6978,BLAST.tv Paris Major 2023 Europe RMR B,Apr 11th,/events/6978/blasttv-paris-major-2023-europe-rmr-b,16,Other,"Copenhagen, Denmark",Intl. LAN
 6977,BLAST.tv Paris Major 2023 Europe RMR A,Apr 6th,/events/6977/blasttv-paris-major-2023-europe-rmr-a,16,Other,"Copenhagen, Denmark",Intl. LAN
+6976,BLAST Premier World Final 2023,Dec 13th,/events/6976/blast-premier-world-final-2023,8,"$1,000,000","Abu Dhabi, UAE",Intl. LAN
+6975,BLAST Premier Fall Final 2023,Nov 22nd,/events/6975/blast-premier-fall-final-2023,8,"$425,000","Copenhagen, Denmark",Intl. LAN
+6973,BLAST Premier Fall Groups 2023,Jul 13th,/events/6973/blast-premier-fall-groups-2023,12,"$177,500","Copenhagen, Denmark",Intl. LAN
+6972,BLAST Premier Spring Final 2023,Jun 7th,/events/6972/blast-premier-spring-final-2023,8,"$425,000","Washington, D.C., US",Intl. LAN
+6970,BLAST Premier Spring Groups 2023,Jan 19th,/events/6970/blast-premier-spring-groups-2023,12,"$177,500","Copenhagen, Denmark",Intl. LAN
 6921,ESL Impact Katowice 2023,Feb 10th,/events/6921/esl-impact-katowice-2023,8,"$100,000","Katowice, Poland",Intl. LAN
 6869,ESL Challenger Atlanta 2023,Dec 15th,/events/6869/esl-challenger-atlanta-2023,8,"$100,000","Atlanta, GA, US",Intl. LAN
 6868,ESL Challenger Jönköping 2023,Nov 24th,/events/6868/esl-challenger-jnkping-2023,8,"$100,000","Jönköping, Sweden",Intl. LAN
@@ -28,3 +31,27 @@ eventId,eventName,eventDate,eventLink,eventNumTeams,eventPrize,eventLocation,eve
 6809,IEM Katowice 2023,Feb 4th,/events/6809/iem-katowice-2023,16,"$1,000,000","Katowice, Poland",Intl. LAN
 6794,BLAST.tv Paris Major 2023 Challengers Stage,May 8th,/events/6794/blasttv-paris-major-2023-challengers-stage,16,Other,"Paris, France",Major
 6793,BLAST.tv Paris Major 2023,May 13th,/events/6793/blasttv-paris-major-2023,16,"$1,250,000","Paris, France",Major
+6714,IEM Road to Rio 2022 Europe RMR B,Oct 4th,/events/6714/iem-road-to-rio-2022-europe-rmr-b,16,Other,Malta,Intl. LAN
+6713,IEM Road to Rio 2022 Europe RMR A,Oct 4th,/events/6713/iem-road-to-rio-2022-europe-rmr-a,16,Other,Malta,Intl. LAN
+6712,IEM Road to Rio 2022 Americas RMR,Oct 5th,/events/6712/iem-road-to-rio-2022-americas-rmr,16,Other,"Stockholm, Sweden",Intl. LAN
+6711,IEM Road to Rio 2022 Asia RMR,Oct 7th,/events/6711/iem-road-to-rio-2022-asia-rmr,4,Other,"Melbourne, Australia",Intl. LAN
+6588,IEM Rio Major 2022 Challengers Stage,Oct 31st,/events/6588/iem-rio-major-2022-challengers-stage,16,Other,Rio de Janeiro,Major
+6587,Global Esports Tour Dubai 2022,Jun 9th,/events/6587/global-esports-tour-dubai-2022,8,"$250,000","Dubai, UAE",Intl. LAN
+6586,IEM Rio Major 2022,Nov 5th,/events/6586/iem-rio-major-2022,16,"$1,250,000","Rio de Janeiro, Brazil",Major
+6577,ESL Impact Valencia 2022,Jul 1st,/events/6577/esl-impact-valencia-2022,8,"$100,000","Valencia, Spain",Intl. LAN
+6503,IEM Cologne 2022 Play-in,Jul 5th,/events/6503/iem-cologne-2022-play-in,16,Other,"Cologne, Germany",Intl. LAN
+6384,PGL Major Antwerp 2022 Challengers Stage,May 9th,/events/6384/pgl-major-antwerp-2022-challengers-stage,16,Other,"Antwerp, Belgium",Major
+6382,PGL Major Antwerp 2022 Europe RMR B,Apr 21st,/events/6382/pgl-major-antwerp-2022-europe-rmr-b,16,"$85,000","Bucharest, Romania",Intl. LAN
+6381,PGL Major Antwerp 2022 Europe RMR A,Apr 17th,/events/6381/pgl-major-antwerp-2022-europe-rmr-a,16,"$95,000","Bucharest, Romania",Intl. LAN
+6372,PGL Major Antwerp 2022,May 14th,/events/6372/pgl-major-antwerp-2022,16,"$1,000,000","Antwerp, Belgium",Major
+6349,BLAST Premier World Final 2022,Dec 14th,/events/6349/blast-premier-world-final-2022,8,"$1,000,000","Abu Dhabi, UAE",Intl. LAN
+6348,BLAST Premier Fall Final 2022,Nov 23rd,/events/6348/blast-premier-fall-final-2022,8,"$425,000","Copenhagen, Denmark",Intl. LAN
+6346,BLAST Premier Fall Groups 2022,Aug 19th,/events/6346/blast-premier-fall-groups-2022,12,"$177,500","Copenhagen, Denmark",Intl. LAN
+6345,BLAST Premier Spring Final 2022,Jun 15th,/events/6345/blast-premier-spring-final-2022,8,"$425,000","Lisbon, Portugal",Intl. LAN
+6319,ESL Challenger Rotterdam 2022,Oct 14th,/events/6319/esl-challenger-rotterdam-2022,8,"$100,000","Rotterdam, Netherlands",Intl. LAN
+6318,ESL Challenger Melbourne 2022,Sep 2nd,/events/6318/esl-challenger-melbourne-2022,8,"$100,000","Melbourne, Australia",Intl. LAN
+6317,ESL Challenger Valencia 2022,Jul 1st,/events/6317/esl-challenger-valencia-2022,8,"$100,000","Valencia, Spain",Intl. LAN
+6219,IEM Katowice 2022 Play-in,Feb 15th,/events/6219/iem-katowice-2022-play-in,16,Other,"Katowice, Poland",Intl. LAN
+6140,IEM Cologne 2022,Jul 7th,/events/6140/iem-cologne-2022,16,"$1,000,000","Cologne, Germany",Intl. LAN
+6138,IEM Dallas 2022,May 30th,/events/6138/iem-dallas-2022,16,"$250,000","Dallas, TX, United States",Intl. LAN
+6136,IEM Katowice 2022,Feb 17th,/events/6136/iem-katowice-2022,16,"$1,000,000","Katowice, Poland",Intl. LAN
